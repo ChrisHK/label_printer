@@ -1,0 +1,884 @@
+2025-03-19 10:11:42,926 [INFO] File update detected: \\192.168.0.10\Files\03_IT\data\system_records_Mar2025.csv
+2025-03-19 10:11:42,930 [INFO] Processing system records: system_records_Mar2025.csv
+2025-03-19 10:11:44,217 [INFO] Found 274 records
+2025-03-19 10:11:44,291 [INFO] Latest record: PF1D8LX2
+2025-03-19 10:11:44,456 [INFO] Last processed time: 2025-03-18 14:10:00
+2025-03-19 10:11:44,459 [INFO] Current record count - main database: 1511, development database: 1511
+2025-03-19 10:11:44,473 [INFO] Found 1 new records to process
+2025-03-19 10:11:44,474 [INFO] Updating zerodb database...
+2025-03-19 10:11:44,552 [INFO] Processing record in zerodb: SerialNumber=PF1D8LX2, Timestamp=2025-03-19 10:11:00
+2025-03-19 10:11:44,564 [INFO] Inserting new record to zerodb: {'serialnumber': 'PF1D8LX2', 'computername': 'DESKTOP-9SCOQLP', 'manufacturer': 'LENOVO', 'model': '20QGS39N00', 'systemsku': 'LENOVO_MT_20QG_BU_Think_FM_ThinkPad X1 Yoga 4th', 'ram_gb': 16.0, 'disks': '512GB', 'created_at': '3/19/2025 10:11', 'operatingsystem': 'Microsoft Windows 11 Pro 10.0.26100', 'cpu': 'Intel(R) Core(TM) i5-8365U CPU @ 1.60GHz (4C/8T)', 'resolution': '1920x1080', 'graphicscard': 'Intel(R) UHD Graphics 620 [1920x1080]', 'touchscreen': 'Yes Detected', 'design_capacity': 51010.0, 'full_charge_capacity': 42290.0, 'cycle_count': 122.0, 'battery_health': 82.91}
+2025-03-19 10:11:44,644 [INFO] Successfully inserted record with ID: 1513
+2025-03-19 10:11:48,371 [INFO] Label printed: PF1D8LX2
+2025-03-19 10:11:48,915 [INFO] Successfully uploaded 1 records to API
+2025-03-19 10:11:49,268 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 10:11:49,268 [INFO] Processed 1 new records
+2025-03-19 10:11:49,269 [INFO] Updating zerodev database...
+2025-03-19 10:11:49,341 [INFO] Processing record in zerodev: SerialNumber=PF1D8LX2, Timestamp=2025-03-19 10:11:00
+2025-03-19 10:11:49,350 [INFO] Inserting new record to zerodev: {'serialnumber': 'PF1D8LX2', 'computername': 'DESKTOP-9SCOQLP', 'manufacturer': 'LENOVO', 'model': '20QGS39N00', 'systemsku': 'LENOVO_MT_20QG_BU_Think_FM_ThinkPad X1 Yoga 4th', 'ram_gb': 16.0, 'disks': '512GB', 'created_at': '3/19/2025 10:11', 'operatingsystem': 'Microsoft Windows 11 Pro 10.0.26100', 'cpu': 'Intel(R) Core(TM) i5-8365U CPU @ 1.60GHz (4C/8T)', 'resolution': '1920x1080', 'graphicscard': 'Intel(R) UHD Graphics 620 [1920x1080]', 'touchscreen': 'Yes Detected', 'design_capacity': 51010.0, 'full_charge_capacity': 42290.0, 'cycle_count': 122.0, 'battery_health': 82.91}
+2025-03-19 10:11:49,355 [INFO] Successfully inserted record with ID: 1513
+2025-03-19 10:11:49,716 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 10:11:49,717 [INFO] Processed 1 new records
+2025-03-19 10:11:49,876 [INFO] Updated record counts - zerodb: 1512, zerodev: 1512
+2025-03-19 10:11:50,227 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 10:11:52,348 [INFO] File update detected: \\192.168.0.10\Files\03_IT\data\product_keys_Mar2025.csv
+2025-03-19 10:11:52,348 [INFO] Processing product keys from: \\192.168.0.10\Files\03_IT\data\product_keys_Mar2025.csv
+2025-03-19 10:11:52,371 [INFO] Found 193 records in CSV
+2025-03-19 10:11:53,163 [INFO] Processed total: 193 records
+2025-03-19 10:11:53,164 [INFO] Updated: 192 records
+2025-03-19 10:11:53,165 [INFO] Added: 1 new records
+2025-03-19 10:11:53,534 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 10:49:27,887 [INFO] File update detected: \\192.168.0.10\Files\03_IT\data\system_records_Mar2025.csv
+2025-03-19 10:49:27,891 [INFO] Processing system records: system_records_Mar2025.csv
+2025-03-19 10:49:27,949 [INFO] Found 275 records
+2025-03-19 10:49:27,977 [INFO] Latest record: PF220QL9
+2025-03-19 10:49:28,150 [INFO] Last processed time: 2025-03-19 10:11:00
+2025-03-19 10:49:28,153 [INFO] Current record count - main database: 1512, development database: 1512
+2025-03-19 10:49:28,156 [INFO] Found 1 new records to process
+2025-03-19 10:49:28,156 [INFO] Updating zerodb database...
+2025-03-19 10:49:28,222 [INFO] Processing record in zerodb: SerialNumber=PF220QL9, Timestamp=2025-03-19 10:49:00
+2025-03-19 10:49:28,230 [INFO] Inserting new record to zerodb: {'serialnumber': 'PF220QL9', 'computername': 'DESKTOP-9SCOQLP', 'manufacturer': 'LENOVO', 'model': '20QGS39N00', 'systemsku': 'LENOVO_MT_20QG_BU_Think_FM_ThinkPad X1 Yoga 4th', 'ram_gb': 16.0, 'disks': '512GB', 'created_at': '3/19/2025 10:49', 'operatingsystem': 'Microsoft Windows 11 Pro 10.0.26100', 'cpu': 'Intel(R) Core(TM) i5-8365U CPU @ 1.60GHz (4C/8T)', 'resolution': '1920x1080', 'graphicscard': 'Intel(R) UHD Graphics 620 [1920x1080]', 'touchscreen': 'Yes Detected', 'design_capacity': 51010.0, 'full_charge_capacity': 40520.0, 'cycle_count': 396.0, 'battery_health': 79.44}
+2025-03-19 10:49:28,297 [INFO] Successfully inserted record with ID: 1514
+2025-03-19 10:49:32,052 [INFO] Label printed: PF220QL9
+2025-03-19 10:49:32,594 [INFO] Successfully uploaded 1 records to API
+2025-03-19 10:49:32,939 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 10:49:32,940 [INFO] Processed 1 new records
+2025-03-19 10:49:32,941 [INFO] Updating zerodev database...
+2025-03-19 10:49:33,014 [INFO] Processing record in zerodev: SerialNumber=PF220QL9, Timestamp=2025-03-19 10:49:00
+2025-03-19 10:49:33,023 [INFO] Inserting new record to zerodev: {'serialnumber': 'PF220QL9', 'computername': 'DESKTOP-9SCOQLP', 'manufacturer': 'LENOVO', 'model': '20QGS39N00', 'systemsku': 'LENOVO_MT_20QG_BU_Think_FM_ThinkPad X1 Yoga 4th', 'ram_gb': 16.0, 'disks': '512GB', 'created_at': '3/19/2025 10:49', 'operatingsystem': 'Microsoft Windows 11 Pro 10.0.26100', 'cpu': 'Intel(R) Core(TM) i5-8365U CPU @ 1.60GHz (4C/8T)', 'resolution': '1920x1080', 'graphicscard': 'Intel(R) UHD Graphics 620 [1920x1080]', 'touchscreen': 'Yes Detected', 'design_capacity': 51010.0, 'full_charge_capacity': 40520.0, 'cycle_count': 396.0, 'battery_health': 79.44}
+2025-03-19 10:49:33,028 [INFO] Successfully inserted record with ID: 1514
+2025-03-19 10:49:33,378 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 10:49:33,378 [INFO] Processed 1 new records
+2025-03-19 10:49:33,754 [INFO] Updated record counts - zerodb: 1513, zerodev: 1513
+2025-03-19 10:49:34,112 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 10:49:36,234 [INFO] File update detected: \\192.168.0.10\Files\03_IT\data\product_keys_Mar2025.csv
+2025-03-19 10:49:36,234 [INFO] Processing product keys from: \\192.168.0.10\Files\03_IT\data\product_keys_Mar2025.csv
+2025-03-19 10:49:36,259 [INFO] Found 194 records in CSV
+2025-03-19 10:49:36,858 [INFO] Processed total: 194 records
+2025-03-19 10:49:36,858 [INFO] Updated: 193 records
+2025-03-19 10:49:36,859 [INFO] Added: 1 new records
+2025-03-19 10:49:37,178 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 11:23:47,321 [INFO] File update detected: \\192.168.0.10\Files\03_IT\data\system_records_Mar2025.csv
+2025-03-19 11:23:47,321 [INFO] Processing system records: system_records_Mar2025.csv
+2025-03-19 11:23:47,691 [INFO] API connection successful
+2025-03-19 11:23:47,721 [INFO] Found 276 records
+2025-03-19 11:23:47,747 [INFO] Latest record: PF2201SP
+2025-03-19 11:23:47,908 [INFO] Last processed time: 2025-03-19 10:49:00
+2025-03-19 11:23:47,911 [INFO] Current record count - main database: 1513, development database: 1513
+2025-03-19 11:23:47,913 [INFO] Found 1 new records to process
+2025-03-19 11:23:47,914 [INFO] Updating zerodb database...
+2025-03-19 11:23:47,980 [INFO] Processing record in zerodb: SerialNumber=PF2201SP, Timestamp=2025-03-19 11:23:00
+2025-03-19 11:23:47,987 [INFO] Inserting new record to zerodb: {'serialnumber': 'PF2201SP', 'computername': 'DESKTOP-9SCOQLP', 'manufacturer': 'LENOVO', 'model': '20QGS39N00', 'systemsku': 'LENOVO_MT_20QG_BU_Think_FM_ThinkPad X1 Yoga 4th', 'ram_gb': 16.0, 'disks': '512GB', 'created_at': '3/19/2025 11:23', 'operatingsystem': 'Microsoft Windows 11 Pro 10.0.26100', 'cpu': 'Intel(R) Core(TM) i5-8365U CPU @ 1.60GHz (4C/8T)', 'resolution': '1920x1080', 'graphicscard': 'Intel(R) UHD Graphics 620 [1920x1080]', 'touchscreen': 'Yes Detected', 'design_capacity': 51010.0, 'full_charge_capacity': 45100.0, 'cycle_count': 121.0, 'battery_health': 88.41}
+2025-03-19 11:23:48,052 [INFO] Successfully inserted record with ID: 1515
+2025-03-19 11:23:51,718 [INFO] Label printed: PF2201SP
+2025-03-19 11:23:52,122 [INFO] Successfully uploaded 1 records to API
+2025-03-19 11:23:52,473 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 11:23:52,474 [INFO] Processed 1 new records
+2025-03-19 11:23:52,475 [INFO] Updating zerodev database...
+2025-03-19 11:23:52,549 [INFO] Processing record in zerodev: SerialNumber=PF2201SP, Timestamp=2025-03-19 11:23:00
+2025-03-19 11:23:52,558 [INFO] Inserting new record to zerodev: {'serialnumber': 'PF2201SP', 'computername': 'DESKTOP-9SCOQLP', 'manufacturer': 'LENOVO', 'model': '20QGS39N00', 'systemsku': 'LENOVO_MT_20QG_BU_Think_FM_ThinkPad X1 Yoga 4th', 'ram_gb': 16.0, 'disks': '512GB', 'created_at': '3/19/2025 11:23', 'operatingsystem': 'Microsoft Windows 11 Pro 10.0.26100', 'cpu': 'Intel(R) Core(TM) i5-8365U CPU @ 1.60GHz (4C/8T)', 'resolution': '1920x1080', 'graphicscard': 'Intel(R) UHD Graphics 620 [1920x1080]', 'touchscreen': 'Yes Detected', 'design_capacity': 51010.0, 'full_charge_capacity': 45100.0, 'cycle_count': 121.0, 'battery_health': 88.41}
+2025-03-19 11:23:52,563 [INFO] Successfully inserted record with ID: 1515
+2025-03-19 11:23:52,925 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 11:23:52,926 [INFO] Processed 1 new records
+2025-03-19 11:23:53,096 [INFO] Updated record counts - zerodb: 1514, zerodev: 1514
+2025-03-19 11:23:53,566 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 11:23:54,680 [INFO] File update detected: \\192.168.0.10\Files\03_IT\data\system_records_Mar2025.csv
+2025-03-19 11:23:54,680 [INFO] Processing system records: system_records_Mar2025.csv
+2025-03-19 11:23:54,687 [INFO] Found 276 records
+2025-03-19 11:23:54,709 [INFO] Latest record: PF2201SP
+2025-03-19 11:23:54,851 [INFO] Last processed time: 2025-03-19 11:23:00
+2025-03-19 11:23:54,855 [INFO] Current record count - main database: 1514, development database: 1514
+2025-03-19 11:23:54,857 [INFO] Found 0 new records to process
+2025-03-19 11:23:54,857 [INFO] No new records to process
+2025-03-19 11:23:54,857 [INFO] Skipping print for SN: PF2201SP - recently printed
+2025-03-19 11:28:42,874 [INFO] File update detected: \\192.168.0.10\Files\03_IT\data\system_records_Mar2025.csv
+2025-03-19 11:28:42,874 [INFO] Processing system records: system_records_Mar2025.csv
+2025-03-19 11:28:42,962 [INFO] Found 277 records
+2025-03-19 11:28:42,984 [INFO] Latest record: PF2216PJ
+2025-03-19 11:28:43,153 [INFO] Last processed time: 2025-03-19 11:23:00
+2025-03-19 11:28:43,156 [INFO] Current record count - main database: 1514, development database: 1514
+2025-03-19 11:28:43,160 [INFO] Found 1 new records to process
+2025-03-19 11:28:43,160 [INFO] Updating zerodb database...
+2025-03-19 11:28:43,234 [INFO] Processing record in zerodb: SerialNumber=PF2216PJ, Timestamp=2025-03-19 11:28:00
+2025-03-19 11:28:43,242 [INFO] Inserting new record to zerodb: {'serialnumber': 'PF2216PJ', 'computername': 'DESKTOP-9SCOQLP', 'manufacturer': 'LENOVO', 'model': '20QGS39N00', 'systemsku': 'LENOVO_MT_20QG_BU_Think_FM_ThinkPad X1 Yoga 4th', 'ram_gb': 16.0, 'disks': '512GB', 'created_at': '3/19/2025 11:28', 'operatingsystem': 'Microsoft Windows 11 Pro 10.0.26100', 'cpu': 'Intel(R) Core(TM) i5-8365U CPU @ 1.60GHz (4C/8T)', 'resolution': '1920x1080', 'graphicscard': 'Intel(R) UHD Graphics 620 [1920x1080]', 'touchscreen': 'Yes Detected', 'design_capacity': 51010.0, 'full_charge_capacity': 47360.0, 'cycle_count': 30.0, 'battery_health': 92.84}
+2025-03-19 11:28:43,308 [INFO] Successfully inserted record with ID: 1516
+2025-03-19 11:28:46,964 [INFO] Label printed: PF2216PJ
+2025-03-19 11:28:47,455 [INFO] Successfully uploaded 1 records to API
+2025-03-19 11:28:47,818 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 11:28:47,818 [INFO] Processed 1 new records
+2025-03-19 11:28:47,820 [INFO] Updating zerodev database...
+2025-03-19 11:28:47,897 [INFO] Processing record in zerodev: SerialNumber=PF2216PJ, Timestamp=2025-03-19 11:28:00
+2025-03-19 11:28:47,906 [INFO] Inserting new record to zerodev: {'serialnumber': 'PF2216PJ', 'computername': 'DESKTOP-9SCOQLP', 'manufacturer': 'LENOVO', 'model': '20QGS39N00', 'systemsku': 'LENOVO_MT_20QG_BU_Think_FM_ThinkPad X1 Yoga 4th', 'ram_gb': 16.0, 'disks': '512GB', 'created_at': '3/19/2025 11:28', 'operatingsystem': 'Microsoft Windows 11 Pro 10.0.26100', 'cpu': 'Intel(R) Core(TM) i5-8365U CPU @ 1.60GHz (4C/8T)', 'resolution': '1920x1080', 'graphicscard': 'Intel(R) UHD Graphics 620 [1920x1080]', 'touchscreen': 'Yes Detected', 'design_capacity': 51010.0, 'full_charge_capacity': 47360.0, 'cycle_count': 30.0, 'battery_health': 92.84}
+2025-03-19 11:28:47,911 [INFO] Successfully inserted record with ID: 1516
+2025-03-19 11:28:48,274 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 11:28:48,275 [INFO] Processed 1 new records
+2025-03-19 11:28:48,441 [INFO] Updated record counts - zerodb: 1515, zerodev: 1515
+2025-03-19 11:28:48,779 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 11:50:46,734 [INFO] File update detected: \\192.168.0.10\Files\03_IT\data\system_records_Mar2025.csv
+2025-03-19 11:50:46,734 [INFO] Processing system records: system_records_Mar2025.csv
+2025-03-19 11:50:46,768 [INFO] Found 278 records
+2025-03-19 11:50:46,790 [INFO] Latest record: PF220E6E
+2025-03-19 11:50:46,900 [INFO] Last processed time: 2025-03-19 11:28:00
+2025-03-19 11:50:46,904 [INFO] Current record count - main database: 1515, development database: 1515
+2025-03-19 11:50:46,906 [INFO] Found 1 new records to process
+2025-03-19 11:50:46,907 [INFO] Updating zerodb database...
+2025-03-19 11:50:46,973 [INFO] Processing record in zerodb: SerialNumber=PF220E6E, Timestamp=2025-03-19 11:50:00
+2025-03-19 11:50:46,981 [INFO] Inserting new record to zerodb: {'serialnumber': 'PF220E6E', 'computername': 'DESKTOP-9SCOQLP', 'manufacturer': 'LENOVO', 'model': '20QGS39N00', 'systemsku': 'LENOVO_MT_20QG_BU_Think_FM_ThinkPad X1 Yoga 4th', 'ram_gb': 16.0, 'disks': '512GB', 'created_at': '3/19/2025 11:50', 'operatingsystem': 'Microsoft Windows 11 Pro 10.0.26100', 'cpu': 'Intel(R) Core(TM) i5-8365U CPU @ 1.60GHz (4C/8T)', 'resolution': '1920x1080', 'graphicscard': 'Intel(R) UHD Graphics 620 [1920x1080]', 'touchscreen': 'Yes Detected', 'design_capacity': 51010.0, 'full_charge_capacity': 39320.0, 'cycle_count': 66.0, 'battery_health': 77.08}
+2025-03-19 11:50:47,053 [INFO] Successfully inserted record with ID: 1517
+2025-03-19 11:50:50,713 [INFO] Label printed: PF220E6E
+2025-03-19 11:50:51,224 [INFO] Successfully uploaded 1 records to API
+2025-03-19 11:50:51,589 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 11:50:51,589 [INFO] Processed 1 new records
+2025-03-19 11:50:51,591 [INFO] Updating zerodev database...
+2025-03-19 11:50:51,677 [INFO] Processing record in zerodev: SerialNumber=PF220E6E, Timestamp=2025-03-19 11:50:00
+2025-03-19 11:50:51,688 [INFO] Inserting new record to zerodev: {'serialnumber': 'PF220E6E', 'computername': 'DESKTOP-9SCOQLP', 'manufacturer': 'LENOVO', 'model': '20QGS39N00', 'systemsku': 'LENOVO_MT_20QG_BU_Think_FM_ThinkPad X1 Yoga 4th', 'ram_gb': 16.0, 'disks': '512GB', 'created_at': '3/19/2025 11:50', 'operatingsystem': 'Microsoft Windows 11 Pro 10.0.26100', 'cpu': 'Intel(R) Core(TM) i5-8365U CPU @ 1.60GHz (4C/8T)', 'resolution': '1920x1080', 'graphicscard': 'Intel(R) UHD Graphics 620 [1920x1080]', 'touchscreen': 'Yes Detected', 'design_capacity': 51010.0, 'full_charge_capacity': 39320.0, 'cycle_count': 66.0, 'battery_health': 77.08}
+2025-03-19 11:50:51,694 [INFO] Successfully inserted record with ID: 1517
+2025-03-19 11:50:52,056 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 11:50:52,056 [INFO] Processed 1 new records
+2025-03-19 11:50:52,217 [INFO] Updated record counts - zerodb: 1516, zerodev: 1516
+2025-03-19 11:50:52,574 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 11:50:54,700 [INFO] File update detected: \\192.168.0.10\Files\03_IT\data\product_keys_Mar2025.csv
+2025-03-19 11:50:54,700 [INFO] Processing product keys from: \\192.168.0.10\Files\03_IT\data\product_keys_Mar2025.csv
+2025-03-19 11:50:54,724 [INFO] Found 195 records in CSV
+2025-03-19 11:50:55,519 [INFO] Processed total: 195 records
+2025-03-19 11:50:55,519 [INFO] Updated: 194 records
+2025-03-19 11:50:55,520 [INFO] Added: 1 new records
+2025-03-19 11:50:55,843 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 12:07:36,844 [INFO] File update detected: \\192.168.0.10\Files\03_IT\data\system_records_Mar2025.csv
+2025-03-19 12:07:36,845 [INFO] Processing system records: system_records_Mar2025.csv
+2025-03-19 12:07:36,885 [INFO] Found 279 records
+2025-03-19 12:07:36,919 [INFO] Latest record: PF1D8H05
+2025-03-19 12:07:37,101 [INFO] Last processed time: 2025-03-19 11:50:00
+2025-03-19 12:07:37,111 [INFO] Current record count - main database: 1516, development database: 1516
+2025-03-19 12:07:37,115 [INFO] Found 1 new records to process
+2025-03-19 12:07:37,116 [INFO] Updating zerodb database...
+2025-03-19 12:07:37,176 [INFO] Processing record in zerodb: SerialNumber=PF1D8H05, Timestamp=2025-03-19 12:07:00
+2025-03-19 12:07:37,183 [INFO] Inserting new record to zerodb: {'serialnumber': 'PF1D8H05', 'computername': 'DESKTOP-9SCOQLP', 'manufacturer': 'LENOVO', 'model': '20QGS39N00', 'systemsku': 'LENOVO_MT_20QG_BU_Think_FM_ThinkPad X1 Yoga 4th', 'ram_gb': 16.0, 'disks': '512GB', 'created_at': '3/19/2025 12:07', 'operatingsystem': 'Microsoft Windows 11 Pro 10.0.26100', 'cpu': 'Intel(R) Core(TM) i5-8365U CPU @ 1.60GHz (4C/8T)', 'resolution': '1920x1080', 'graphicscard': 'Intel(R) UHD Graphics 620 [1920x1080]', 'touchscreen': 'Yes Detected', 'design_capacity': 51010.0, 'full_charge_capacity': 44350.0, 'cycle_count': 166.0, 'battery_health': 86.94}
+2025-03-19 12:07:37,244 [INFO] Successfully inserted record with ID: 1518
+2025-03-19 12:07:40,955 [INFO] Label printed: PF1D8H05
+2025-03-19 12:07:41,599 [INFO] Successfully uploaded 1 records to API
+2025-03-19 12:07:42,003 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 12:07:42,003 [INFO] Processed 1 new records
+2025-03-19 12:07:42,004 [INFO] Updating zerodev database...
+2025-03-19 12:07:42,081 [INFO] Processing record in zerodev: SerialNumber=PF1D8H05, Timestamp=2025-03-19 12:07:00
+2025-03-19 12:07:42,089 [INFO] Inserting new record to zerodev: {'serialnumber': 'PF1D8H05', 'computername': 'DESKTOP-9SCOQLP', 'manufacturer': 'LENOVO', 'model': '20QGS39N00', 'systemsku': 'LENOVO_MT_20QG_BU_Think_FM_ThinkPad X1 Yoga 4th', 'ram_gb': 16.0, 'disks': '512GB', 'created_at': '3/19/2025 12:07', 'operatingsystem': 'Microsoft Windows 11 Pro 10.0.26100', 'cpu': 'Intel(R) Core(TM) i5-8365U CPU @ 1.60GHz (4C/8T)', 'resolution': '1920x1080', 'graphicscard': 'Intel(R) UHD Graphics 620 [1920x1080]', 'touchscreen': 'Yes Detected', 'design_capacity': 51010.0, 'full_charge_capacity': 44350.0, 'cycle_count': 166.0, 'battery_health': 86.94}
+2025-03-19 12:07:42,094 [INFO] Successfully inserted record with ID: 1518
+2025-03-19 12:07:42,555 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 12:07:42,555 [INFO] Processed 1 new records
+2025-03-19 12:07:42,732 [INFO] Updated record counts - zerodb: 1517, zerodev: 1517
+2025-03-19 12:07:43,106 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 12:07:45,229 [INFO] File update detected: \\192.168.0.10\Files\03_IT\data\product_keys_Mar2025.csv
+2025-03-19 12:07:45,229 [INFO] Processing product keys from: \\192.168.0.10\Files\03_IT\data\product_keys_Mar2025.csv
+2025-03-19 12:07:45,250 [INFO] Found 196 records in CSV
+2025-03-19 12:07:46,011 [INFO] Processed total: 196 records
+2025-03-19 12:07:46,011 [INFO] Updated: 195 records
+2025-03-19 12:07:46,013 [INFO] Added: 1 new records
+2025-03-19 12:07:46,359 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 12:16:05,417 [INFO] File update detected: \\192.168.0.10\Files\03_IT\data\system_records_Mar2025.csv
+2025-03-19 12:16:05,418 [INFO] Processing system records: system_records_Mar2025.csv
+2025-03-19 12:16:05,454 [INFO] Found 280 records
+2025-03-19 12:16:05,476 [INFO] Latest record: PF1D24E6
+2025-03-19 12:16:05,646 [INFO] Last processed time: 2025-03-19 12:07:00
+2025-03-19 12:16:05,650 [INFO] Current record count - main database: 1517, development database: 1517
+2025-03-19 12:16:05,653 [INFO] Found 1 new records to process
+2025-03-19 12:16:05,653 [INFO] Updating zerodb database...
+2025-03-19 12:16:05,724 [INFO] Processing record in zerodb: SerialNumber=PF1D24E6, Timestamp=2025-03-19 12:16:00
+2025-03-19 12:16:05,731 [INFO] Inserting new record to zerodb: {'serialnumber': 'PF1D24E6', 'computername': 'DESKTOP-9SCOQLP', 'manufacturer': 'LENOVO', 'model': '20QGS39N00', 'systemsku': 'LENOVO_MT_20QG_BU_Think_FM_ThinkPad X1 Yoga 4th', 'ram_gb': 16.0, 'disks': '512GB', 'created_at': '3/19/2025 12:16', 'operatingsystem': 'Microsoft Windows 11 Pro 10.0.26100', 'cpu': 'Intel(R) Core(TM) i5-8365U CPU @ 1.60GHz (4C/8T)', 'resolution': '1920x1080', 'graphicscard': 'Intel(R) UHD Graphics 620 [1920x1080]', 'touchscreen': 'Yes Detected', 'design_capacity': 51010.0, 'full_charge_capacity': 44700.0, 'cycle_count': 262.0, 'battery_health': 87.63}
+2025-03-19 12:16:05,806 [INFO] Successfully inserted record with ID: 1519
+2025-03-19 12:16:09,508 [INFO] Label printed: PF1D24E6
+2025-03-19 12:16:10,071 [INFO] Successfully uploaded 1 records to API
+2025-03-19 12:16:10,410 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 12:16:10,410 [INFO] Processed 1 new records
+2025-03-19 12:16:10,412 [INFO] Updating zerodev database...
+2025-03-19 12:16:10,488 [INFO] Processing record in zerodev: SerialNumber=PF1D24E6, Timestamp=2025-03-19 12:16:00
+2025-03-19 12:16:10,496 [INFO] Inserting new record to zerodev: {'serialnumber': 'PF1D24E6', 'computername': 'DESKTOP-9SCOQLP', 'manufacturer': 'LENOVO', 'model': '20QGS39N00', 'systemsku': 'LENOVO_MT_20QG_BU_Think_FM_ThinkPad X1 Yoga 4th', 'ram_gb': 16.0, 'disks': '512GB', 'created_at': '3/19/2025 12:16', 'operatingsystem': 'Microsoft Windows 11 Pro 10.0.26100', 'cpu': 'Intel(R) Core(TM) i5-8365U CPU @ 1.60GHz (4C/8T)', 'resolution': '1920x1080', 'graphicscard': 'Intel(R) UHD Graphics 620 [1920x1080]', 'touchscreen': 'Yes Detected', 'design_capacity': 51010.0, 'full_charge_capacity': 44700.0, 'cycle_count': 262.0, 'battery_health': 87.63}
+2025-03-19 12:16:10,502 [INFO] Successfully inserted record with ID: 1519
+2025-03-19 12:16:10,854 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 12:16:10,854 [INFO] Processed 1 new records
+2025-03-19 12:16:10,998 [INFO] Updated record counts - zerodb: 1518, zerodev: 1518
+2025-03-19 12:16:11,352 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 12:16:13,471 [INFO] File update detected: \\192.168.0.10\Files\03_IT\data\product_keys_Mar2025.csv
+2025-03-19 12:16:13,471 [INFO] Processing product keys from: \\192.168.0.10\Files\03_IT\data\product_keys_Mar2025.csv
+2025-03-19 12:16:13,494 [INFO] Found 197 records in CSV
+2025-03-19 12:16:13,934 [INFO] Processed total: 197 records
+2025-03-19 12:16:13,935 [INFO] Updated: 196 records
+2025-03-19 12:16:13,936 [INFO] Added: 1 new records
+2025-03-19 12:16:14,254 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 12:22:01,566 [INFO] File update detected: \\192.168.0.10\Files\03_IT\data\system_records_Mar2025.csv
+2025-03-19 12:22:01,566 [INFO] Processing system records: system_records_Mar2025.csv
+2025-03-19 12:22:01,593 [INFO] Found 281 records
+2025-03-19 12:22:01,616 [INFO] Latest record: PF1D8EJT
+2025-03-19 12:22:01,785 [INFO] Last processed time: 2025-03-19 12:16:00
+2025-03-19 12:22:01,788 [INFO] Current record count - main database: 1518, development database: 1518
+2025-03-19 12:22:01,790 [INFO] Found 1 new records to process
+2025-03-19 12:22:01,790 [INFO] Updating zerodb database...
+2025-03-19 12:22:01,866 [INFO] Processing record in zerodb: SerialNumber=PF1D8EJT, Timestamp=2025-03-19 12:21:00
+2025-03-19 12:22:01,873 [INFO] Inserting new record to zerodb: {'serialnumber': 'PF1D8EJT', 'computername': 'DESKTOP-9SCOQLP', 'manufacturer': 'LENOVO', 'model': '20QGS39N00', 'systemsku': 'LENOVO_MT_20QG_BU_Think_FM_ThinkPad X1 Yoga 4th', 'ram_gb': 16.0, 'disks': '512GB', 'created_at': '3/19/2025 12:21', 'operatingsystem': 'Microsoft Windows 11 Pro 10.0.26100', 'cpu': 'Intel(R) Core(TM) i5-8365U CPU @ 1.60GHz (4C/8T)', 'resolution': '1920x1080', 'graphicscard': 'Intel(R) UHD Graphics 620 [1920x1080]', 'touchscreen': 'Yes Detected', 'design_capacity': 51010.0, 'full_charge_capacity': 42930.0, 'cycle_count': 62.0, 'battery_health': 84.16}
+2025-03-19 12:22:01,914 [INFO] Successfully inserted record with ID: 1520
+2025-03-19 12:22:05,587 [INFO] Label printed: PF1D8EJT
+2025-03-19 12:22:05,991 [INFO] Successfully uploaded 1 records to API
+2025-03-19 12:22:06,374 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 12:22:06,374 [INFO] Processed 1 new records
+2025-03-19 12:22:06,408 [INFO] Updating zerodev database...
+2025-03-19 12:22:06,500 [INFO] Processing record in zerodev: SerialNumber=PF1D8EJT, Timestamp=2025-03-19 12:21:00
+2025-03-19 12:22:06,509 [INFO] Inserting new record to zerodev: {'serialnumber': 'PF1D8EJT', 'computername': 'DESKTOP-9SCOQLP', 'manufacturer': 'LENOVO', 'model': '20QGS39N00', 'systemsku': 'LENOVO_MT_20QG_BU_Think_FM_ThinkPad X1 Yoga 4th', 'ram_gb': 16.0, 'disks': '512GB', 'created_at': '3/19/2025 12:21', 'operatingsystem': 'Microsoft Windows 11 Pro 10.0.26100', 'cpu': 'Intel(R) Core(TM) i5-8365U CPU @ 1.60GHz (4C/8T)', 'resolution': '1920x1080', 'graphicscard': 'Intel(R) UHD Graphics 620 [1920x1080]', 'touchscreen': 'Yes Detected', 'design_capacity': 51010.0, 'full_charge_capacity': 42930.0, 'cycle_count': 62.0, 'battery_health': 84.16}
+2025-03-19 12:22:06,515 [INFO] Successfully inserted record with ID: 1520
+2025-03-19 12:22:06,861 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 12:22:06,862 [INFO] Processed 1 new records
+2025-03-19 12:22:07,019 [INFO] Updated record counts - zerodb: 1519, zerodev: 1519
+2025-03-19 12:22:07,337 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 12:28:15,924 [INFO] File update detected: \\192.168.0.10\Files\03_IT\data\system_records_Mar2025.csv
+2025-03-19 12:28:15,925 [INFO] Processing system records: system_records_Mar2025.csv
+2025-03-19 12:28:15,963 [INFO] Found 282 records
+2025-03-19 12:28:15,985 [INFO] Latest record: PF1D394X
+2025-03-19 12:28:16,168 [INFO] Last processed time: 2025-03-19 12:21:00
+2025-03-19 12:28:16,171 [INFO] Current record count - main database: 1519, development database: 1519
+2025-03-19 12:28:16,173 [INFO] Found 1 new records to process
+2025-03-19 12:28:16,173 [INFO] Updating zerodb database...
+2025-03-19 12:28:16,241 [INFO] Processing record in zerodb: SerialNumber=PF1D394X, Timestamp=2025-03-19 12:28:00
+2025-03-19 12:28:16,249 [INFO] Inserting new record to zerodb: {'serialnumber': 'PF1D394X', 'computername': 'DESKTOP-9SCOQLP', 'manufacturer': 'LENOVO', 'model': '20QGS39N00', 'systemsku': 'LENOVO_MT_20QG_BU_Think_FM_ThinkPad X1 Yoga 4th', 'ram_gb': 16.0, 'disks': '512GB', 'created_at': '3/19/2025 12:28', 'operatingsystem': 'Microsoft Windows 11 Pro 10.0.26100', 'cpu': 'Intel(R) Core(TM) i5-8365U CPU @ 1.60GHz (4C/8T)', 'resolution': '1920x1080', 'graphicscard': 'Intel(R) UHD Graphics 620 [1920x1080]', 'touchscreen': 'Yes Detected', 'design_capacity': 51010.0, 'full_charge_capacity': 42900.0, 'cycle_count': 229.0, 'battery_health': 84.1}
+2025-03-19 12:28:16,325 [INFO] Successfully inserted record with ID: 1521
+2025-03-19 12:28:19,984 [INFO] Label printed: PF1D394X
+2025-03-19 12:28:28,734 [INFO] Successfully uploaded 1 records to API
+2025-03-19 12:28:29,106 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 12:28:29,106 [INFO] Processed 1 new records
+2025-03-19 12:28:29,108 [INFO] Updating zerodev database...
+2025-03-19 12:28:29,180 [INFO] Processing record in zerodev: SerialNumber=PF1D394X, Timestamp=2025-03-19 12:28:00
+2025-03-19 12:28:29,186 [INFO] Inserting new record to zerodev: {'serialnumber': 'PF1D394X', 'computername': 'DESKTOP-9SCOQLP', 'manufacturer': 'LENOVO', 'model': '20QGS39N00', 'systemsku': 'LENOVO_MT_20QG_BU_Think_FM_ThinkPad X1 Yoga 4th', 'ram_gb': 16.0, 'disks': '512GB', 'created_at': '3/19/2025 12:28', 'operatingsystem': 'Microsoft Windows 11 Pro 10.0.26100', 'cpu': 'Intel(R) Core(TM) i5-8365U CPU @ 1.60GHz (4C/8T)', 'resolution': '1920x1080', 'graphicscard': 'Intel(R) UHD Graphics 620 [1920x1080]', 'touchscreen': 'Yes Detected', 'design_capacity': 51010.0, 'full_charge_capacity': 42900.0, 'cycle_count': 229.0, 'battery_health': 84.1}
+2025-03-19 12:28:29,191 [INFO] Successfully inserted record with ID: 1521
+2025-03-19 12:28:29,639 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 12:28:29,640 [INFO] Processed 1 new records
+2025-03-19 12:28:29,807 [INFO] Updated record counts - zerodb: 1520, zerodev: 1520
+2025-03-19 12:28:30,163 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 12:37:36,907 [INFO] File update detected: \\192.168.0.10\Files\03_IT\data\system_records_Mar2025.csv
+2025-03-19 12:37:36,908 [INFO] Processing system records: system_records_Mar2025.csv
+2025-03-19 12:37:36,934 [INFO] Found 283 records
+2025-03-19 12:37:36,959 [INFO] Latest record: PF1D8GM7
+2025-03-19 12:37:37,113 [INFO] Last processed time: 2025-03-19 12:28:00
+2025-03-19 12:37:37,116 [INFO] Current record count - main database: 1520, development database: 1520
+2025-03-19 12:37:37,118 [INFO] Found 1 new records to process
+2025-03-19 12:37:37,118 [INFO] Updating zerodb database...
+2025-03-19 12:37:37,194 [INFO] Processing record in zerodb: SerialNumber=PF1D8GM7, Timestamp=2025-03-19 12:37:00
+2025-03-19 12:37:37,203 [INFO] Inserting new record to zerodb: {'serialnumber': 'PF1D8GM7', 'computername': 'DESKTOP-9SCOQLP', 'manufacturer': 'LENOVO', 'model': '20QGS39N00', 'systemsku': 'LENOVO_MT_20QG_BU_Think_FM_ThinkPad X1 Yoga 4th', 'ram_gb': 16.0, 'disks': '512GB', 'created_at': '3/19/2025 12:37', 'operatingsystem': 'Microsoft Windows 11 Pro 10.0.26100', 'cpu': 'Intel(R) Core(TM) i5-8365U CPU @ 1.60GHz (4C/8T)', 'resolution': '1920x1080', 'graphicscard': 'Intel(R) UHD Graphics 620 [1920x1080]', 'touchscreen': 'Yes Detected', 'design_capacity': 51010.0, 'full_charge_capacity': 45210.0, 'cycle_count': 44.0, 'battery_health': 88.63}
+2025-03-19 12:37:37,283 [INFO] Successfully inserted record with ID: 1522
+2025-03-19 12:37:40,984 [INFO] Label printed: PF1D8GM7
+2025-03-19 12:37:41,414 [INFO] Successfully uploaded 1 records to API
+2025-03-19 12:37:41,781 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 12:37:41,782 [INFO] Processed 1 new records
+2025-03-19 12:37:41,783 [INFO] Updating zerodev database...
+2025-03-19 12:37:41,863 [INFO] Processing record in zerodev: SerialNumber=PF1D8GM7, Timestamp=2025-03-19 12:37:00
+2025-03-19 12:37:41,872 [INFO] Inserting new record to zerodev: {'serialnumber': 'PF1D8GM7', 'computername': 'DESKTOP-9SCOQLP', 'manufacturer': 'LENOVO', 'model': '20QGS39N00', 'systemsku': 'LENOVO_MT_20QG_BU_Think_FM_ThinkPad X1 Yoga 4th', 'ram_gb': 16.0, 'disks': '512GB', 'created_at': '3/19/2025 12:37', 'operatingsystem': 'Microsoft Windows 11 Pro 10.0.26100', 'cpu': 'Intel(R) Core(TM) i5-8365U CPU @ 1.60GHz (4C/8T)', 'resolution': '1920x1080', 'graphicscard': 'Intel(R) UHD Graphics 620 [1920x1080]', 'touchscreen': 'Yes Detected', 'design_capacity': 51010.0, 'full_charge_capacity': 45210.0, 'cycle_count': 44.0, 'battery_health': 88.63}
+2025-03-19 12:37:41,877 [INFO] Successfully inserted record with ID: 1522
+2025-03-19 12:37:42,228 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 12:37:42,229 [INFO] Processed 1 new records
+2025-03-19 12:37:42,382 [INFO] Updated record counts - zerodb: 1521, zerodev: 1521
+2025-03-19 12:37:42,714 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 12:53:05,973 [INFO] File update detected: \\192.168.0.10\Files\03_IT\data\system_records_Mar2025.csv
+2025-03-19 12:53:05,973 [INFO] Processing system records: system_records_Mar2025.csv
+2025-03-19 12:53:06,001 [INFO] Found 284 records
+2025-03-19 12:53:06,023 [INFO] Latest record: PF22YM0T
+2025-03-19 12:53:06,182 [INFO] Last processed time: 2025-03-19 12:37:00
+2025-03-19 12:53:06,185 [INFO] Current record count - main database: 1521, development database: 1521
+2025-03-19 12:53:06,188 [INFO] Found 1 new records to process
+2025-03-19 12:53:06,189 [INFO] Updating zerodb database...
+2025-03-19 12:53:06,262 [INFO] Processing record in zerodb: SerialNumber=PF22YM0T, Timestamp=2025-03-19 12:53:00
+2025-03-19 12:53:06,271 [INFO] Inserting new record to zerodb: {'serialnumber': 'PF22YM0T', 'computername': 'DESKTOP-9SCOQLP', 'manufacturer': 'LENOVO', 'model': '20N7S0V506', 'systemsku': 'LENOVO_MT_20N7_BU_Think_FM_ThinkPad P53s', 'ram_gb': 16.0, 'disks': '512GB', 'created_at': '3/19/2025 12:53', 'operatingsystem': 'Microsoft Windows 11 Pro 10.0.26100', 'cpu': 'Intel(R) Core(TM) i7-8665U CPU @ 1.90GHz (4C/8T)', 'resolution': '1920x1080', 'graphicscard': 'Intel(R) UHD Graphics 620 [1920x1080]', 'touchscreen': 'Not Detected', 'design_capacity': 57020.0, 'full_charge_capacity': 52470.0, 'cycle_count': 51.0, 'battery_health': 92.02}
+2025-03-19 12:53:06,345 [INFO] Successfully inserted record with ID: 1523
+2025-03-19 12:53:10,001 [INFO] Label printed: PF22YM0T
+2025-03-19 12:53:11,161 [INFO] Successfully uploaded 1 records to API
+2025-03-19 12:53:11,525 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 12:53:11,525 [INFO] Processed 1 new records
+2025-03-19 12:53:11,527 [INFO] Updating zerodev database...
+2025-03-19 12:53:11,595 [INFO] Processing record in zerodev: SerialNumber=PF22YM0T, Timestamp=2025-03-19 12:53:00
+2025-03-19 12:53:11,603 [INFO] Inserting new record to zerodev: {'serialnumber': 'PF22YM0T', 'computername': 'DESKTOP-9SCOQLP', 'manufacturer': 'LENOVO', 'model': '20N7S0V506', 'systemsku': 'LENOVO_MT_20N7_BU_Think_FM_ThinkPad P53s', 'ram_gb': 16.0, 'disks': '512GB', 'created_at': '3/19/2025 12:53', 'operatingsystem': 'Microsoft Windows 11 Pro 10.0.26100', 'cpu': 'Intel(R) Core(TM) i7-8665U CPU @ 1.90GHz (4C/8T)', 'resolution': '1920x1080', 'graphicscard': 'Intel(R) UHD Graphics 620 [1920x1080]', 'touchscreen': 'Not Detected', 'design_capacity': 57020.0, 'full_charge_capacity': 52470.0, 'cycle_count': 51.0, 'battery_health': 92.02}
+2025-03-19 12:53:11,609 [INFO] Successfully inserted record with ID: 1523
+2025-03-19 12:53:11,969 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 12:53:11,969 [INFO] Processed 1 new records
+2025-03-19 12:53:12,125 [INFO] Updated record counts - zerodb: 1522, zerodev: 1522
+2025-03-19 12:53:12,474 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 12:59:04,561 [INFO] File update detected: \\192.168.0.10\Files\03_IT\data\system_records_Mar2025.csv
+2025-03-19 12:59:04,562 [INFO] Processing system records: system_records_Mar2025.csv
+2025-03-19 12:59:04,595 [INFO] Found 285 records
+2025-03-19 12:59:04,617 [INFO] Latest record: PF2A4MV8
+2025-03-19 12:59:04,803 [INFO] Last processed time: 2025-03-19 12:53:00
+2025-03-19 12:59:04,812 [INFO] Current record count - main database: 1522, development database: 1522
+2025-03-19 12:59:04,815 [INFO] Found 1 new records to process
+2025-03-19 12:59:04,816 [INFO] Updating zerodb database...
+2025-03-19 12:59:04,887 [INFO] Processing record in zerodb: SerialNumber=PF2A4MV8, Timestamp=2025-03-19 12:59:00
+2025-03-19 12:59:04,895 [INFO] Inserting new record to zerodb: {'serialnumber': 'PF2A4MV8', 'computername': 'DESKTOP-9SCOQLP', 'manufacturer': 'LENOVO', 'model': '20N7S0V506', 'systemsku': 'LENOVO_MT_20N7_BU_Think_FM_ThinkPad P53s', 'ram_gb': 16.0, 'disks': '512GB', 'created_at': '3/19/2025 12:59', 'operatingsystem': 'Microsoft Windows 11 Pro 10.0.26100', 'cpu': 'Intel(R) Core(TM) i7-8665U CPU @ 1.90GHz (4C/8T)', 'resolution': '1920x1080', 'graphicscard': 'Intel(R) UHD Graphics 620 [1920x1080]', 'touchscreen': 'Not Detected', 'design_capacity': 57020.0, 'full_charge_capacity': 45810.0, 'cycle_count': 485.0, 'battery_health': 80.34}
+2025-03-19 12:59:04,974 [INFO] Successfully inserted record with ID: 1524
+2025-03-19 12:59:08,663 [INFO] Label printed: PF2A4MV8
+2025-03-19 12:59:10,393 [INFO] Successfully uploaded 1 records to API
+2025-03-19 12:59:10,772 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 12:59:10,772 [INFO] Processed 1 new records
+2025-03-19 12:59:10,773 [INFO] Updating zerodev database...
+2025-03-19 12:59:10,867 [INFO] Processing record in zerodev: SerialNumber=PF2A4MV8, Timestamp=2025-03-19 12:59:00
+2025-03-19 12:59:10,891 [INFO] Inserting new record to zerodev: {'serialnumber': 'PF2A4MV8', 'computername': 'DESKTOP-9SCOQLP', 'manufacturer': 'LENOVO', 'model': '20N7S0V506', 'systemsku': 'LENOVO_MT_20N7_BU_Think_FM_ThinkPad P53s', 'ram_gb': 16.0, 'disks': '512GB', 'created_at': '3/19/2025 12:59', 'operatingsystem': 'Microsoft Windows 11 Pro 10.0.26100', 'cpu': 'Intel(R) Core(TM) i7-8665U CPU @ 1.90GHz (4C/8T)', 'resolution': '1920x1080', 'graphicscard': 'Intel(R) UHD Graphics 620 [1920x1080]', 'touchscreen': 'Not Detected', 'design_capacity': 57020.0, 'full_charge_capacity': 45810.0, 'cycle_count': 485.0, 'battery_health': 80.34}
+2025-03-19 12:59:10,946 [INFO] Successfully inserted record with ID: 1524
+2025-03-19 12:59:11,472 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 12:59:11,473 [INFO] Processed 1 new records
+2025-03-19 12:59:11,638 [INFO] Updated record counts - zerodb: 1523, zerodev: 1523
+2025-03-19 12:59:11,986 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 13:04:22,761 [INFO] File update detected: \\192.168.0.10\Files\03_IT\data\system_records_Mar2025.csv
+2025-03-19 13:04:22,762 [INFO] Processing system records: system_records_Mar2025.csv
+2025-03-19 13:04:22,804 [INFO] Found 286 records
+2025-03-19 13:04:22,829 [INFO] Latest record: PF22YGH1
+2025-03-19 13:04:22,972 [INFO] Last processed time: 2025-03-19 12:59:00
+2025-03-19 13:04:22,974 [INFO] Current record count - main database: 1523, development database: 1523
+2025-03-19 13:04:22,978 [INFO] Found 1 new records to process
+2025-03-19 13:04:22,978 [INFO] Updating zerodb database...
+2025-03-19 13:04:23,033 [INFO] Processing record in zerodb: SerialNumber=PF22YGH1, Timestamp=2025-03-19 13:04:00
+2025-03-19 13:04:23,036 [INFO] Inserting new record to zerodb: {'serialnumber': 'PF22YGH1', 'computername': 'DESKTOP-9SCOQLP', 'manufacturer': 'LENOVO', 'model': '20N7S0V506', 'systemsku': 'LENOVO_MT_20N7_BU_Think_FM_ThinkPad P53s', 'ram_gb': 16.0, 'disks': '512GB', 'created_at': '3/19/2025 13:04', 'operatingsystem': 'Microsoft Windows 11 Pro 10.0.26100', 'cpu': 'Intel(R) Core(TM) i7-8665U CPU @ 1.90GHz (4C/8T)', 'resolution': '1920x1080', 'graphicscard': 'Intel(R) UHD Graphics 620 [1920x1080]', 'touchscreen': 'Not Detected', 'design_capacity': 57000.0, 'full_charge_capacity': 58100.0, 'cycle_count': 57.0, 'battery_health': 101.93}
+2025-03-19 13:04:23,096 [INFO] Successfully inserted record with ID: 1525
+2025-03-19 13:04:26,751 [INFO] Label printed: PF22YGH1
+2025-03-19 13:04:27,412 [INFO] Successfully uploaded 1 records to API
+2025-03-19 13:04:27,795 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 13:04:27,795 [INFO] Processed 1 new records
+2025-03-19 13:04:27,798 [INFO] Updating zerodev database...
+2025-03-19 13:04:27,871 [INFO] Processing record in zerodev: SerialNumber=PF22YGH1, Timestamp=2025-03-19 13:04:00
+2025-03-19 13:04:27,878 [INFO] Inserting new record to zerodev: {'serialnumber': 'PF22YGH1', 'computername': 'DESKTOP-9SCOQLP', 'manufacturer': 'LENOVO', 'model': '20N7S0V506', 'systemsku': 'LENOVO_MT_20N7_BU_Think_FM_ThinkPad P53s', 'ram_gb': 16.0, 'disks': '512GB', 'created_at': '3/19/2025 13:04', 'operatingsystem': 'Microsoft Windows 11 Pro 10.0.26100', 'cpu': 'Intel(R) Core(TM) i7-8665U CPU @ 1.90GHz (4C/8T)', 'resolution': '1920x1080', 'graphicscard': 'Intel(R) UHD Graphics 620 [1920x1080]', 'touchscreen': 'Not Detected', 'design_capacity': 57000.0, 'full_charge_capacity': 58100.0, 'cycle_count': 57.0, 'battery_health': 101.93}
+2025-03-19 13:04:27,884 [INFO] Successfully inserted record with ID: 1525
+2025-03-19 13:04:28,250 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 13:04:28,251 [INFO] Processed 1 new records
+2025-03-19 13:04:28,522 [INFO] Updated record counts - zerodb: 1524, zerodev: 1524
+2025-03-19 13:04:28,859 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 13:04:30,983 [INFO] File update detected: \\192.168.0.10\Files\03_IT\data\product_keys_Mar2025.csv
+2025-03-19 13:04:30,984 [INFO] Processing product keys from: \\192.168.0.10\Files\03_IT\data\product_keys_Mar2025.csv
+2025-03-19 13:04:31,019 [INFO] Found 198 records in CSV
+2025-03-19 13:04:31,662 [INFO] Processed total: 198 records
+2025-03-19 13:04:31,662 [INFO] Updated: 197 records
+2025-03-19 13:04:31,664 [INFO] Added: 1 new records
+2025-03-19 13:04:31,966 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 13:10:27,408 [INFO] File update detected: \\192.168.0.10\Files\03_IT\data\system_records_Mar2025.csv
+2025-03-19 13:10:27,408 [INFO] Processing system records: system_records_Mar2025.csv
+2025-03-19 13:10:27,437 [INFO] Found 287 records
+2025-03-19 13:10:27,459 [INFO] Latest record: PF1YQP3E
+2025-03-19 13:10:27,632 [INFO] Last processed time: 2025-03-19 13:04:00
+2025-03-19 13:10:27,635 [INFO] Current record count - main database: 1524, development database: 1524
+2025-03-19 13:10:27,637 [INFO] Found 1 new records to process
+2025-03-19 13:10:27,637 [INFO] Updating zerodb database...
+2025-03-19 13:10:27,699 [INFO] Processing record in zerodb: SerialNumber=PF1YQP3E, Timestamp=2025-03-19 13:10:00
+2025-03-19 13:10:27,706 [INFO] Inserting new record to zerodb: {'serialnumber': 'PF1YQP3E', 'computername': 'DESKTOP-9SCOQLP', 'manufacturer': 'LENOVO', 'model': '20N7S0V506', 'systemsku': 'LENOVO_MT_20N7_BU_Think_FM_ThinkPad P53s', 'ram_gb': 16.0, 'disks': '512GB', 'created_at': '3/19/2025 13:10', 'operatingsystem': 'Microsoft Windows 11 Pro 10.0.26100', 'cpu': 'Intel(R) Core(TM) i7-8665U CPU @ 1.90GHz (4C/8T)', 'resolution': '1920x1080', 'graphicscard': 'Intel(R) UHD Graphics 620 [1920x1080]', 'touchscreen': 'Not Detected', 'design_capacity': 57000.0, 'full_charge_capacity': 57520.0, 'cycle_count': 1082.0, 'battery_health': 100.91}
+2025-03-19 13:10:27,776 [INFO] Successfully inserted record with ID: 1526
+2025-03-19 13:10:31,445 [INFO] Label printed: PF1YQP3E
+2025-03-19 13:10:32,019 [INFO] Successfully uploaded 1 records to API
+2025-03-19 13:10:32,361 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 13:10:32,361 [INFO] Processed 1 new records
+2025-03-19 13:10:32,363 [INFO] Updating zerodev database...
+2025-03-19 13:10:32,434 [INFO] Processing record in zerodev: SerialNumber=PF1YQP3E, Timestamp=2025-03-19 13:10:00
+2025-03-19 13:10:32,441 [INFO] Inserting new record to zerodev: {'serialnumber': 'PF1YQP3E', 'computername': 'DESKTOP-9SCOQLP', 'manufacturer': 'LENOVO', 'model': '20N7S0V506', 'systemsku': 'LENOVO_MT_20N7_BU_Think_FM_ThinkPad P53s', 'ram_gb': 16.0, 'disks': '512GB', 'created_at': '3/19/2025 13:10', 'operatingsystem': 'Microsoft Windows 11 Pro 10.0.26100', 'cpu': 'Intel(R) Core(TM) i7-8665U CPU @ 1.90GHz (4C/8T)', 'resolution': '1920x1080', 'graphicscard': 'Intel(R) UHD Graphics 620 [1920x1080]', 'touchscreen': 'Not Detected', 'design_capacity': 57000.0, 'full_charge_capacity': 57520.0, 'cycle_count': 1082.0, 'battery_health': 100.91}
+2025-03-19 13:10:32,448 [INFO] Successfully inserted record with ID: 1526
+2025-03-19 13:10:32,801 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 13:10:32,801 [INFO] Processed 1 new records
+2025-03-19 13:10:32,946 [INFO] Updated record counts - zerodb: 1525, zerodev: 1525
+2025-03-19 13:10:33,277 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 13:14:50,932 [INFO] File update detected: \\192.168.0.10\Files\03_IT\data\system_records_Mar2025.csv
+2025-03-19 13:14:50,933 [INFO] Processing system records: system_records_Mar2025.csv
+2025-03-19 13:14:50,966 [INFO] Found 288 records
+2025-03-19 13:14:50,988 [INFO] Latest record: PF221C33
+2025-03-19 13:14:51,180 [INFO] Last processed time: 2025-03-19 13:10:00
+2025-03-19 13:14:51,183 [INFO] Current record count - main database: 1525, development database: 1525
+2025-03-19 13:14:51,186 [INFO] Found 1 new records to process
+2025-03-19 13:14:51,187 [INFO] Updating zerodb database...
+2025-03-19 13:14:51,248 [INFO] Processing record in zerodb: SerialNumber=PF221C33, Timestamp=2025-03-19 13:14:00
+2025-03-19 13:14:51,255 [INFO] Inserting new record to zerodb: {'serialnumber': 'PF221C33', 'computername': 'DESKTOP-7IJ7KLD', 'manufacturer': 'LENOVO', 'model': '20QGS39N00', 'systemsku': 'LENOVO_MT_20QG_BU_Think_FM_ThinkPad X1 Yoga 4th', 'ram_gb': 16.0, 'disks': '512GB', 'created_at': '3/19/2025 13:14', 'operatingsystem': 'Microsoft Windows 11 Pro 10.0.26100', 'cpu': 'Intel(R) Core(TM) i5-8365U CPU @ 1.60GHz (4C/8T)', 'resolution': '1920x1080', 'graphicscard': 'Intel(R) UHD Graphics 620 [1920x1080]', 'touchscreen': 'Yes Detected', 'design_capacity': 51010.0, 'full_charge_capacity': 46230.0, 'cycle_count': 182.0, 'battery_health': 90.63}
+2025-03-19 13:14:51,349 [INFO] Successfully inserted record with ID: 1527
+2025-03-19 13:14:54,998 [INFO] Label printed: PF221C33
+2025-03-19 13:14:57,231 [INFO] Successfully uploaded 1 records to API
+2025-03-19 13:14:57,592 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 13:14:57,592 [INFO] Processed 1 new records
+2025-03-19 13:14:57,594 [INFO] Updating zerodev database...
+2025-03-19 13:14:57,664 [INFO] Processing record in zerodev: SerialNumber=PF221C33, Timestamp=2025-03-19 13:14:00
+2025-03-19 13:14:57,672 [INFO] Inserting new record to zerodev: {'serialnumber': 'PF221C33', 'computername': 'DESKTOP-7IJ7KLD', 'manufacturer': 'LENOVO', 'model': '20QGS39N00', 'systemsku': 'LENOVO_MT_20QG_BU_Think_FM_ThinkPad X1 Yoga 4th', 'ram_gb': 16.0, 'disks': '512GB', 'created_at': '3/19/2025 13:14', 'operatingsystem': 'Microsoft Windows 11 Pro 10.0.26100', 'cpu': 'Intel(R) Core(TM) i5-8365U CPU @ 1.60GHz (4C/8T)', 'resolution': '1920x1080', 'graphicscard': 'Intel(R) UHD Graphics 620 [1920x1080]', 'touchscreen': 'Yes Detected', 'design_capacity': 51010.0, 'full_charge_capacity': 46230.0, 'cycle_count': 182.0, 'battery_health': 90.63}
+2025-03-19 13:14:57,677 [INFO] Successfully inserted record with ID: 1527
+2025-03-19 13:14:58,040 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 13:14:58,040 [INFO] Processed 1 new records
+2025-03-19 13:14:58,213 [INFO] Updated record counts - zerodb: 1526, zerodev: 1526
+2025-03-19 13:14:58,605 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 13:15:00,833 [INFO] File update detected: \\192.168.0.10\Files\03_IT\data\product_keys_Mar2025.csv
+2025-03-19 13:15:00,834 [INFO] Processing product keys from: \\192.168.0.10\Files\03_IT\data\product_keys_Mar2025.csv
+2025-03-19 13:15:00,853 [INFO] Found 199 records in CSV
+2025-03-19 13:15:01,437 [INFO] Processed total: 199 records
+2025-03-19 13:15:01,437 [INFO] Updated: 198 records
+2025-03-19 13:15:01,438 [INFO] Added: 1 new records
+2025-03-19 13:15:01,752 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 13:20:14,722 [INFO] File update detected: \\192.168.0.10\Files\03_IT\data\system_records_Mar2025.csv
+2025-03-19 13:20:14,723 [INFO] Processing system records: system_records_Mar2025.csv
+2025-03-19 13:20:14,749 [INFO] Found 289 records
+2025-03-19 13:20:14,770 [INFO] Latest record: PF1D8GG8
+2025-03-19 13:20:14,957 [INFO] Last processed time: 2025-03-19 13:14:00
+2025-03-19 13:20:14,961 [INFO] Current record count - main database: 1526, development database: 1526
+2025-03-19 13:20:14,962 [INFO] Found 1 new records to process
+2025-03-19 13:20:14,963 [INFO] Updating zerodb database...
+2025-03-19 13:20:15,033 [INFO] Processing record in zerodb: SerialNumber=PF1D8GG8, Timestamp=2025-03-19 13:20:00
+2025-03-19 13:20:15,040 [INFO] Inserting new record to zerodb: {'serialnumber': 'PF1D8GG8', 'computername': 'DESKTOP-ELI09PB', 'manufacturer': 'LENOVO', 'model': '20QGS39N00', 'systemsku': 'LENOVO_MT_20QG_BU_Think_FM_ThinkPad X1 Yoga 4th', 'ram_gb': 16.0, 'disks': '512GB', 'created_at': '3/19/2025 13:20', 'operatingsystem': 'Microsoft Windows 11 Pro 10.0.26100', 'cpu': 'Intel(R) Core(TM) i5-8365U CPU @ 1.60GHz (4C/8T)', 'resolution': '1920x1080', 'graphicscard': 'Intel(R) UHD Graphics 620 [1920x1080]', 'touchscreen': 'Yes Detected', 'design_capacity': 51010.0, 'full_charge_capacity': 43450.0, 'cycle_count': 195.0, 'battery_health': 85.18}
+2025-03-19 13:20:15,112 [INFO] Successfully inserted record with ID: 1528
+2025-03-19 13:20:18,769 [INFO] Label printed: PF1D8GG8
+2025-03-19 13:20:19,646 [INFO] Successfully uploaded 1 records to API
+2025-03-19 13:20:20,000 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 13:20:20,001 [INFO] Processed 1 new records
+2025-03-19 13:20:20,003 [INFO] Updating zerodev database...
+2025-03-19 13:20:20,076 [INFO] Processing record in zerodev: SerialNumber=PF1D8GG8, Timestamp=2025-03-19 13:20:00
+2025-03-19 13:20:20,084 [INFO] Inserting new record to zerodev: {'serialnumber': 'PF1D8GG8', 'computername': 'DESKTOP-ELI09PB', 'manufacturer': 'LENOVO', 'model': '20QGS39N00', 'systemsku': 'LENOVO_MT_20QG_BU_Think_FM_ThinkPad X1 Yoga 4th', 'ram_gb': 16.0, 'disks': '512GB', 'created_at': '3/19/2025 13:20', 'operatingsystem': 'Microsoft Windows 11 Pro 10.0.26100', 'cpu': 'Intel(R) Core(TM) i5-8365U CPU @ 1.60GHz (4C/8T)', 'resolution': '1920x1080', 'graphicscard': 'Intel(R) UHD Graphics 620 [1920x1080]', 'touchscreen': 'Yes Detected', 'design_capacity': 51010.0, 'full_charge_capacity': 43450.0, 'cycle_count': 195.0, 'battery_health': 85.18}
+2025-03-19 13:20:20,090 [INFO] Successfully inserted record with ID: 1528
+2025-03-19 13:20:20,537 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 13:20:20,537 [INFO] Processed 1 new records
+2025-03-19 13:20:20,698 [INFO] Updated record counts - zerodb: 1527, zerodev: 1527
+2025-03-19 13:20:21,029 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 13:20:23,148 [INFO] File update detected: \\192.168.0.10\Files\03_IT\data\product_keys_Mar2025.csv
+2025-03-19 13:20:23,148 [INFO] Processing product keys from: \\192.168.0.10\Files\03_IT\data\product_keys_Mar2025.csv
+2025-03-19 13:20:23,169 [INFO] Found 200 records in CSV
+2025-03-19 13:20:23,947 [INFO] Processed total: 200 records
+2025-03-19 13:20:23,948 [INFO] Updated: 199 records
+2025-03-19 13:20:23,949 [INFO] Added: 1 new records
+2025-03-19 13:20:24,257 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 13:26:26,084 [INFO] File update detected: \\192.168.0.10\Files\03_IT\data\system_records_Mar2025.csv
+2025-03-19 13:26:26,084 [INFO] Processing system records: system_records_Mar2025.csv
+2025-03-19 13:26:26,123 [INFO] Found 290 records
+2025-03-19 13:26:26,149 [INFO] Latest record: PF27YRED
+2025-03-19 13:26:26,317 [INFO] Last processed time: 2025-03-19 13:20:00
+2025-03-19 13:26:26,320 [INFO] Current record count - main database: 1527, development database: 1527
+2025-03-19 13:26:26,323 [INFO] Found 1 new records to process
+2025-03-19 13:26:26,323 [INFO] Updating zerodb database...
+2025-03-19 13:26:26,393 [INFO] Processing record in zerodb: SerialNumber=PF27YRED, Timestamp=2025-03-19 13:26:00
+2025-03-19 13:26:26,401 [INFO] Inserting new record to zerodb: {'serialnumber': 'PF27YRED', 'computername': 'DESKTOP-ELI09PB', 'manufacturer': 'LENOVO', 'model': '20QGS39N00', 'systemsku': 'LENOVO_MT_20QG_BU_Think_FM_ThinkPad X1 Yoga 4th', 'ram_gb': 16.0, 'disks': '512GB', 'created_at': '3/19/2025 13:26', 'operatingsystem': 'Microsoft Windows 11 Pro 10.0.26100', 'cpu': 'Intel(R) Core(TM) i5-8365U CPU @ 1.60GHz (4C/8T)', 'resolution': '1920x1080', 'graphicscard': 'Intel(R) UHD Graphics 620 [1920x1080]', 'touchscreen': 'Yes Detected', 'design_capacity': 51010.0, 'full_charge_capacity': 41340.0, 'cycle_count': 363.0, 'battery_health': 81.04}
+2025-03-19 13:26:26,467 [INFO] Successfully inserted record with ID: 1529
+2025-03-19 13:26:30,156 [INFO] Label printed: PF27YRED
+2025-03-19 13:26:38,280 [INFO] Successfully uploaded 1 records to API
+2025-03-19 13:26:38,660 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 13:26:38,660 [INFO] Processed 1 new records
+2025-03-19 13:26:38,662 [INFO] Updating zerodev database...
+2025-03-19 13:26:38,745 [INFO] Processing record in zerodev: SerialNumber=PF27YRED, Timestamp=2025-03-19 13:26:00
+2025-03-19 13:26:38,754 [INFO] Inserting new record to zerodev: {'serialnumber': 'PF27YRED', 'computername': 'DESKTOP-ELI09PB', 'manufacturer': 'LENOVO', 'model': '20QGS39N00', 'systemsku': 'LENOVO_MT_20QG_BU_Think_FM_ThinkPad X1 Yoga 4th', 'ram_gb': 16.0, 'disks': '512GB', 'created_at': '3/19/2025 13:26', 'operatingsystem': 'Microsoft Windows 11 Pro 10.0.26100', 'cpu': 'Intel(R) Core(TM) i5-8365U CPU @ 1.60GHz (4C/8T)', 'resolution': '1920x1080', 'graphicscard': 'Intel(R) UHD Graphics 620 [1920x1080]', 'touchscreen': 'Yes Detected', 'design_capacity': 51010.0, 'full_charge_capacity': 41340.0, 'cycle_count': 363.0, 'battery_health': 81.04}
+2025-03-19 13:26:38,760 [INFO] Successfully inserted record with ID: 1529
+2025-03-19 13:26:39,252 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 13:26:39,252 [INFO] Processed 1 new records
+2025-03-19 13:26:39,435 [INFO] Updated record counts - zerodb: 1528, zerodev: 1528
+2025-03-19 13:26:39,934 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 13:26:42,057 [INFO] File update detected: \\192.168.0.10\Files\03_IT\data\product_keys_Mar2025.csv
+2025-03-19 13:26:42,057 [INFO] Processing product keys from: \\192.168.0.10\Files\03_IT\data\product_keys_Mar2025.csv
+2025-03-19 13:26:42,101 [INFO] Found 201 records in CSV
+2025-03-19 13:26:42,844 [INFO] Processed total: 201 records
+2025-03-19 13:26:42,844 [INFO] Updated: 200 records
+2025-03-19 13:26:42,846 [INFO] Added: 1 new records
+2025-03-19 13:26:43,193 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 13:31:24,657 [INFO] File update detected: \\192.168.0.10\Files\03_IT\data\system_records_Mar2025.csv
+2025-03-19 13:31:24,658 [INFO] Processing system records: system_records_Mar2025.csv
+2025-03-19 13:31:24,689 [INFO] Found 291 records
+2025-03-19 13:31:24,712 [INFO] Latest record: PF1D3CYL
+2025-03-19 13:31:24,881 [INFO] Last processed time: 2025-03-19 13:26:00
+2025-03-19 13:31:24,885 [INFO] Current record count - main database: 1528, development database: 1528
+2025-03-19 13:31:24,888 [INFO] Found 1 new records to process
+2025-03-19 13:31:24,888 [INFO] Updating zerodb database...
+2025-03-19 13:31:24,969 [INFO] Processing record in zerodb: SerialNumber=PF1D3CYL, Timestamp=2025-03-19 13:31:00
+2025-03-19 13:31:24,976 [INFO] Inserting new record to zerodb: {'serialnumber': 'PF1D3CYL', 'computername': 'DESKTOP-ELI09PB', 'manufacturer': 'LENOVO', 'model': '20QGS39N00', 'systemsku': 'LENOVO_MT_20QG_BU_Think_FM_ThinkPad X1 Yoga 4th', 'ram_gb': 16.0, 'disks': '512GB', 'created_at': '3/19/2025 13:31', 'operatingsystem': 'Microsoft Windows 11 Pro 10.0.26100', 'cpu': 'Intel(R) Core(TM) i5-8365U CPU @ 1.60GHz (4C/8T)', 'resolution': '1920x1080', 'graphicscard': 'Intel(R) UHD Graphics 620 [1920x1080]', 'touchscreen': 'Yes Detected', 'design_capacity': 51010.0, 'full_charge_capacity': 41220.0, 'cycle_count': 243.0, 'battery_health': 80.81}
+2025-03-19 13:31:25,013 [INFO] Successfully inserted record with ID: 1530
+2025-03-19 13:31:28,685 [INFO] Label printed: PF1D3CYL
+2025-03-19 13:31:31,479 [INFO] Successfully uploaded 1 records to API
+2025-03-19 13:31:31,840 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 13:31:31,840 [INFO] Processed 1 new records
+2025-03-19 13:31:31,841 [INFO] Updating zerodev database...
+2025-03-19 13:31:31,916 [INFO] Processing record in zerodev: SerialNumber=PF1D3CYL, Timestamp=2025-03-19 13:31:00
+2025-03-19 13:31:31,924 [INFO] Inserting new record to zerodev: {'serialnumber': 'PF1D3CYL', 'computername': 'DESKTOP-ELI09PB', 'manufacturer': 'LENOVO', 'model': '20QGS39N00', 'systemsku': 'LENOVO_MT_20QG_BU_Think_FM_ThinkPad X1 Yoga 4th', 'ram_gb': 16.0, 'disks': '512GB', 'created_at': '3/19/2025 13:31', 'operatingsystem': 'Microsoft Windows 11 Pro 10.0.26100', 'cpu': 'Intel(R) Core(TM) i5-8365U CPU @ 1.60GHz (4C/8T)', 'resolution': '1920x1080', 'graphicscard': 'Intel(R) UHD Graphics 620 [1920x1080]', 'touchscreen': 'Yes Detected', 'design_capacity': 51010.0, 'full_charge_capacity': 41220.0, 'cycle_count': 243.0, 'battery_health': 80.81}
+2025-03-19 13:31:31,929 [INFO] Successfully inserted record with ID: 1530
+2025-03-19 13:31:32,292 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 13:31:32,293 [INFO] Processed 1 new records
+2025-03-19 13:31:32,461 [INFO] Updated record counts - zerodb: 1529, zerodev: 1529
+2025-03-19 13:31:32,826 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 13:31:34,943 [INFO] File update detected: \\192.168.0.10\Files\03_IT\data\product_keys_Mar2025.csv
+2025-03-19 13:31:34,943 [INFO] Processing product keys from: \\192.168.0.10\Files\03_IT\data\product_keys_Mar2025.csv
+2025-03-19 13:31:34,966 [INFO] Found 202 records in CSV
+2025-03-19 13:31:35,672 [INFO] Processed total: 202 records
+2025-03-19 13:31:35,672 [INFO] Updated: 201 records
+2025-03-19 13:31:35,673 [INFO] Added: 1 new records
+2025-03-19 13:31:36,005 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 13:41:23,600 [INFO] File update detected: \\192.168.0.10\Files\03_IT\data\system_records_Mar2025.csv
+2025-03-19 13:41:23,601 [INFO] Processing system records: system_records_Mar2025.csv
+2025-03-19 13:41:23,635 [INFO] Found 292 records
+2025-03-19 13:41:23,657 [INFO] Latest record: PF1KKSSD
+2025-03-19 13:41:23,812 [INFO] Last processed time: 2025-03-19 13:31:00
+2025-03-19 13:41:23,816 [INFO] Current record count - main database: 1529, development database: 1529
+2025-03-19 13:41:23,819 [INFO] Found 1 new records to process
+2025-03-19 13:41:23,819 [INFO] Updating zerodb database...
+2025-03-19 13:41:23,884 [INFO] Processing record in zerodb: SerialNumber=PF1KKSSD, Timestamp=2025-03-19 13:41:00
+2025-03-19 13:41:23,891 [INFO] Inserting new record to zerodb: {'serialnumber': 'PF1KKSSD', 'computername': 'DESKTOP-0GP95L1', 'manufacturer': 'LENOVO', 'model': '20L50018US', 'systemsku': 'LENOVO_MT_20L5_BU_Think_FM_ThinkPad T480', 'ram_gb': 16.0, 'disks': '256GB', 'created_at': '3/19/2025 13:41', 'operatingsystem': 'Microsoft Windows 11 Pro 10.0.26100', 'cpu': 'Intel(R) Core(TM) i7-8650U CPU @ 1.90GHz (4C/8T)', 'resolution': '1920x1080', 'graphicscard': 'Intel(R) UHD Graphics 620 [1920x1080]', 'touchscreen': 'Not Detected', 'design_capacity': 23940.0, 'full_charge_capacity': 15040.0, 'cycle_count': 186.0, 'battery_health': 62.82}
+2025-03-19 13:41:23,967 [INFO] Successfully inserted record with ID: 1531
+2025-03-19 13:41:27,613 [INFO] Label printed: PF1KKSSD
+2025-03-19 13:41:28,449 [INFO] Successfully uploaded 1 records to API
+2025-03-19 13:41:28,774 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 13:41:28,774 [INFO] Processed 1 new records
+2025-03-19 13:41:28,776 [INFO] Updating zerodev database...
+2025-03-19 13:41:28,858 [INFO] Processing record in zerodev: SerialNumber=PF1KKSSD, Timestamp=2025-03-19 13:41:00
+2025-03-19 13:41:28,866 [INFO] Inserting new record to zerodev: {'serialnumber': 'PF1KKSSD', 'computername': 'DESKTOP-0GP95L1', 'manufacturer': 'LENOVO', 'model': '20L50018US', 'systemsku': 'LENOVO_MT_20L5_BU_Think_FM_ThinkPad T480', 'ram_gb': 16.0, 'disks': '256GB', 'created_at': '3/19/2025 13:41', 'operatingsystem': 'Microsoft Windows 11 Pro 10.0.26100', 'cpu': 'Intel(R) Core(TM) i7-8650U CPU @ 1.90GHz (4C/8T)', 'resolution': '1920x1080', 'graphicscard': 'Intel(R) UHD Graphics 620 [1920x1080]', 'touchscreen': 'Not Detected', 'design_capacity': 23940.0, 'full_charge_capacity': 15040.0, 'cycle_count': 186.0, 'battery_health': 62.82}
+2025-03-19 13:41:28,872 [INFO] Successfully inserted record with ID: 1531
+2025-03-19 13:41:29,217 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 13:41:29,217 [INFO] Processed 1 new records
+2025-03-19 13:41:29,356 [INFO] Updated record counts - zerodb: 1530, zerodev: 1530
+2025-03-19 13:41:29,670 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 13:41:31,788 [INFO] File update detected: \\192.168.0.10\Files\03_IT\data\product_keys_Mar2025.csv
+2025-03-19 13:41:31,788 [INFO] Processing product keys from: \\192.168.0.10\Files\03_IT\data\product_keys_Mar2025.csv
+2025-03-19 13:41:31,811 [INFO] Found 203 records in CSV
+2025-03-19 13:41:32,409 [INFO] Processed total: 203 records
+2025-03-19 13:41:32,409 [INFO] Updated: 202 records
+2025-03-19 13:41:32,410 [INFO] Added: 1 new records
+2025-03-19 13:41:32,704 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 14:14:50,045 [INFO] File update detected: \\192.168.0.10\Files\03_IT\data\system_records_Mar2025.csv
+2025-03-19 14:14:50,045 [INFO] Processing system records: system_records_Mar2025.csv
+2025-03-19 14:14:50,081 [INFO] Found 293 records
+2025-03-19 14:14:50,103 [INFO] Latest record: PF11F4SV
+2025-03-19 14:14:50,285 [INFO] Last processed time: 2025-03-19 13:41:00
+2025-03-19 14:14:50,289 [INFO] Current record count - main database: 1530, development database: 1530
+2025-03-19 14:14:50,291 [INFO] Found 1 new records to process
+2025-03-19 14:14:50,292 [INFO] Updating zerodb database...
+2025-03-19 14:14:50,368 [INFO] Processing record in zerodb: SerialNumber=PF11F4SV, Timestamp=2025-03-19 14:14:00
+2025-03-19 14:14:50,376 [INFO] Inserting new record to zerodb: {'serialnumber': 'PF11F4SV', 'computername': 'DESKTOP-K05M6G3', 'manufacturer': 'LENOVO', 'model': '20L50011US', 'systemsku': 'LENOVO_MT_20L5_BU_Think_FM_ThinkPad T480', 'ram_gb': 16.0, 'disks': '256GB', 'created_at': '3/19/2025 14:14', 'operatingsystem': 'Microsoft Windows 11 Pro 10.0.26100', 'cpu': 'Intel(R) Core(TM) i5-8350U CPU @ 1.70GHz (4C/8T)', 'resolution': '1920x1080', 'graphicscard': 'Intel(R) UHD Graphics 620 [1920x1080]', 'touchscreen': 'Not Detected', 'design_capacity': 23940.0, 'full_charge_capacity': 18750.0, 'cycle_count': 86.0, 'battery_health': 78.32}
+2025-03-19 14:14:50,441 [INFO] Successfully inserted record with ID: 1532
+2025-03-19 14:14:54,113 [INFO] Label printed: PF11F4SV
+2025-03-19 14:14:55,275 [INFO] Successfully uploaded 1 records to API
+2025-03-19 14:14:55,629 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 14:14:55,629 [INFO] Processed 1 new records
+2025-03-19 14:14:55,630 [INFO] Updating zerodev database...
+2025-03-19 14:14:55,815 [INFO] Processing record in zerodev: SerialNumber=PF11F4SV, Timestamp=2025-03-19 14:14:00
+2025-03-19 14:14:55,825 [INFO] Inserting new record to zerodev: {'serialnumber': 'PF11F4SV', 'computername': 'DESKTOP-K05M6G3', 'manufacturer': 'LENOVO', 'model': '20L50011US', 'systemsku': 'LENOVO_MT_20L5_BU_Think_FM_ThinkPad T480', 'ram_gb': 16.0, 'disks': '256GB', 'created_at': '3/19/2025 14:14', 'operatingsystem': 'Microsoft Windows 11 Pro 10.0.26100', 'cpu': 'Intel(R) Core(TM) i5-8350U CPU @ 1.70GHz (4C/8T)', 'resolution': '1920x1080', 'graphicscard': 'Intel(R) UHD Graphics 620 [1920x1080]', 'touchscreen': 'Not Detected', 'design_capacity': 23940.0, 'full_charge_capacity': 18750.0, 'cycle_count': 86.0, 'battery_health': 78.32}
+2025-03-19 14:14:55,831 [INFO] Successfully inserted record with ID: 1532
+2025-03-19 14:14:56,178 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 14:14:56,178 [INFO] Processed 1 new records
+2025-03-19 14:14:56,440 [INFO] Updated record counts - zerodb: 1531, zerodev: 1531
+2025-03-19 14:14:56,804 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 14:14:58,926 [INFO] File update detected: \\192.168.0.10\Files\03_IT\data\product_keys_Mar2025.csv
+2025-03-19 14:14:58,926 [INFO] Processing product keys from: \\192.168.0.10\Files\03_IT\data\product_keys_Mar2025.csv
+2025-03-19 14:14:58,947 [INFO] Found 204 records in CSV
+2025-03-19 14:14:59,570 [INFO] Processed total: 204 records
+2025-03-19 14:14:59,571 [INFO] Updated: 203 records
+2025-03-19 14:14:59,573 [INFO] Added: 1 new records
+2025-03-19 14:14:59,907 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 14:40:14,102 [INFO] File update detected: \\192.168.0.10\Files\03_IT\data\system_records_Mar2025.csv
+2025-03-19 14:40:14,102 [INFO] Processing system records: system_records_Mar2025.csv
+2025-03-19 14:40:14,134 [INFO] Found 293 records
+2025-03-19 14:40:14,157 [INFO] Latest record: PF11F4SV
+2025-03-19 14:40:14,349 [INFO] Last processed time: 2025-03-19 14:14:00
+2025-03-19 14:40:14,353 [INFO] Current record count - main database: 1531, development database: 1531
+2025-03-19 14:40:14,355 [INFO] Found 1 new records to process
+2025-03-19 14:40:14,356 [INFO] Updating zerodb database...
+2025-03-19 14:40:14,425 [INFO] Processing record in zerodb: SerialNumber=PF11F4SV, Timestamp=2025-03-19 14:40:00
+2025-03-19 14:40:14,433 [WARNING] Invalid Design Capacity: 23940, 71100
+2025-03-19 14:40:14,433 [WARNING] Invalid Full Charge Capacity: 18750, 71100
+2025-03-19 14:40:14,434 [WARNING] Invalid Cycle Count: 86, 0
+2025-03-19 14:40:14,434 [WARNING] Invalid Battery Health: 78.32, 100
+2025-03-19 14:40:14,435 [INFO] Inserting new record to zerodb: {'serialnumber': 'PF11F4SV', 'computername': 'DESKTOP-K05M6G3', 'manufacturer': 'LENOVO', 'model': '20L50011US', 'systemsku': 'LENOVO_MT_20L5_BU_Think_FM_ThinkPad T480', 'ram_gb': 16.0, 'disks': '256GB', 'created_at': '3/19/2025 14:40', 'operatingsystem': 'Microsoft Windows 11 Pro 10.0.26100', 'cpu': 'Intel(R) Core(TM) i5-8350U CPU @ 1.70GHz (4C/8T)', 'resolution': '1920x1080', 'graphicscard': 'Intel(R) UHD Graphics 620 [1920x1080]', 'touchscreen': 'Not Detected', 'design_capacity': None, 'full_charge_capacity': None, 'cycle_count': None, 'battery_health': None}
+2025-03-19 14:40:14,440 [INFO] Successfully inserted record with ID: 1533
+2025-03-19 14:40:18,108 [INFO] Label printed: PF11F4SV
+2025-03-19 14:40:18,566 [INFO] Successfully uploaded 1 records to API
+2025-03-19 14:40:18,950 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 14:40:18,950 [INFO] Processed 1 new records
+2025-03-19 14:40:18,952 [INFO] Updating zerodev database...
+2025-03-19 14:40:19,139 [INFO] Processing record in zerodev: SerialNumber=PF11F4SV, Timestamp=2025-03-19 14:40:00
+2025-03-19 14:40:19,148 [WARNING] Invalid Design Capacity: 23940, 71100
+2025-03-19 14:40:19,148 [WARNING] Invalid Full Charge Capacity: 18750, 71100
+2025-03-19 14:40:19,149 [WARNING] Invalid Cycle Count: 86, 0
+2025-03-19 14:40:19,149 [WARNING] Invalid Battery Health: 78.32, 100
+2025-03-19 14:40:19,150 [INFO] Inserting new record to zerodev: {'serialnumber': 'PF11F4SV', 'computername': 'DESKTOP-K05M6G3', 'manufacturer': 'LENOVO', 'model': '20L50011US', 'systemsku': 'LENOVO_MT_20L5_BU_Think_FM_ThinkPad T480', 'ram_gb': 16.0, 'disks': '256GB', 'created_at': '3/19/2025 14:40', 'operatingsystem': 'Microsoft Windows 11 Pro 10.0.26100', 'cpu': 'Intel(R) Core(TM) i5-8350U CPU @ 1.70GHz (4C/8T)', 'resolution': '1920x1080', 'graphicscard': 'Intel(R) UHD Graphics 620 [1920x1080]', 'touchscreen': 'Not Detected', 'design_capacity': None, 'full_charge_capacity': None, 'cycle_count': None, 'battery_health': None}
+2025-03-19 14:40:19,156 [INFO] Successfully inserted record with ID: 1533
+2025-03-19 14:40:19,510 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 14:40:19,511 [INFO] Processed 1 new records
+2025-03-19 14:40:19,669 [INFO] Updated record counts - zerodb: 1532, zerodev: 1532
+2025-03-19 14:40:20,014 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 14:40:22,135 [INFO] File update detected: \\192.168.0.10\Files\03_IT\data\product_keys_Mar2025.csv
+2025-03-19 14:40:22,136 [INFO] Processing product keys from: \\192.168.0.10\Files\03_IT\data\product_keys_Mar2025.csv
+2025-03-19 14:40:22,156 [INFO] Found 204 records in CSV
+2025-03-19 14:40:22,782 [INFO] Processed total: 204 records
+2025-03-19 14:40:22,782 [INFO] Updated: 204 records
+2025-03-19 14:40:22,784 [INFO] Added: 0 new records
+2025-03-19 14:40:23,106 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 14:48:25,153 [INFO] File update detected: \\192.168.0.10\Files\03_IT\data\system_records_Mar2025.csv
+2025-03-19 14:48:25,153 [INFO] Processing system records: system_records_Mar2025.csv
+2025-03-19 14:48:25,182 [INFO] Found 293 records
+2025-03-19 14:48:25,205 [INFO] Latest record: PF11F4SV
+2025-03-19 14:48:25,383 [INFO] Last processed time: 2025-03-19 14:40:00
+2025-03-19 14:48:25,387 [INFO] Current record count - main database: 1532, development database: 1532
+2025-03-19 14:48:25,389 [INFO] Found 1 new records to process
+2025-03-19 14:48:25,389 [INFO] Updating zerodb database...
+2025-03-19 14:48:25,458 [INFO] Processing record in zerodb: SerialNumber=PF11F4SV, Timestamp=2025-03-19 14:48:00
+2025-03-19 14:48:25,469 [WARNING] Invalid Design Capacity: 23940, 71100
+2025-03-19 14:48:25,469 [WARNING] Invalid Full Charge Capacity: 18750, 71100
+2025-03-19 14:48:25,471 [WARNING] Invalid Cycle Count: 86, 0
+2025-03-19 14:48:25,472 [WARNING] Invalid Battery Health: 78.32, 100
+2025-03-19 14:48:25,472 [INFO] Inserting new record to zerodb: {'serialnumber': 'PF11F4SV', 'computername': 'DESKTOP-K05M6G3', 'manufacturer': 'LENOVO', 'model': '20L50011US', 'systemsku': 'LENOVO_MT_20L5_BU_Think_FM_ThinkPad T480', 'ram_gb': 16.0, 'disks': '256GB', 'created_at': '3/19/2025 14:48', 'operatingsystem': 'Microsoft Windows 11 Pro 10.0.26100', 'cpu': 'Intel(R) Core(TM) i5-8350U CPU @ 1.70GHz (4C/8T)', 'resolution': '1920x1080', 'graphicscard': 'Intel(R) UHD Graphics 620 [1920x1080]', 'touchscreen': 'Not Detected', 'design_capacity': None, 'full_charge_capacity': None, 'cycle_count': None, 'battery_health': None}
+2025-03-19 14:48:25,478 [INFO] Successfully inserted record with ID: 1534
+2025-03-19 14:48:29,152 [INFO] Label printed: PF11F4SV
+2025-03-19 14:48:29,761 [INFO] Successfully uploaded 1 records to API
+2025-03-19 14:48:30,130 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 14:48:30,131 [INFO] Processed 1 new records
+2025-03-19 14:48:30,133 [INFO] Updating zerodev database...
+2025-03-19 14:48:30,202 [INFO] Processing record in zerodev: SerialNumber=PF11F4SV, Timestamp=2025-03-19 14:48:00
+2025-03-19 14:48:30,210 [WARNING] Invalid Design Capacity: 23940, 71100
+2025-03-19 14:48:30,210 [WARNING] Invalid Full Charge Capacity: 18750, 71100
+2025-03-19 14:48:30,211 [WARNING] Invalid Cycle Count: 86, 0
+2025-03-19 14:48:30,211 [WARNING] Invalid Battery Health: 78.32, 100
+2025-03-19 14:48:30,212 [INFO] Inserting new record to zerodev: {'serialnumber': 'PF11F4SV', 'computername': 'DESKTOP-K05M6G3', 'manufacturer': 'LENOVO', 'model': '20L50011US', 'systemsku': 'LENOVO_MT_20L5_BU_Think_FM_ThinkPad T480', 'ram_gb': 16.0, 'disks': '256GB', 'created_at': '3/19/2025 14:48', 'operatingsystem': 'Microsoft Windows 11 Pro 10.0.26100', 'cpu': 'Intel(R) Core(TM) i5-8350U CPU @ 1.70GHz (4C/8T)', 'resolution': '1920x1080', 'graphicscard': 'Intel(R) UHD Graphics 620 [1920x1080]', 'touchscreen': 'Not Detected', 'design_capacity': None, 'full_charge_capacity': None, 'cycle_count': None, 'battery_health': None}
+2025-03-19 14:48:30,217 [INFO] Successfully inserted record with ID: 1534
+2025-03-19 14:48:30,542 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 14:48:30,542 [INFO] Processed 1 new records
+2025-03-19 14:48:30,711 [INFO] Updated record counts - zerodb: 1533, zerodev: 1533
+2025-03-19 14:48:31,045 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 14:48:33,164 [INFO] File update detected: \\192.168.0.10\Files\03_IT\data\product_keys_Mar2025.csv
+2025-03-19 14:48:33,164 [INFO] Processing product keys from: \\192.168.0.10\Files\03_IT\data\product_keys_Mar2025.csv
+2025-03-19 14:48:33,185 [INFO] Found 204 records in CSV
+2025-03-19 14:48:33,816 [INFO] Processed total: 204 records
+2025-03-19 14:48:33,816 [INFO] Updated: 204 records
+2025-03-19 14:48:33,817 [INFO] Added: 0 new records
+2025-03-19 14:48:34,164 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 14:54:42,410 [INFO] File update detected: \\192.168.0.10\Files\03_IT\data\system_records_Mar2025.csv
+2025-03-19 14:54:42,411 [INFO] Processing system records: system_records_Mar2025.csv
+2025-03-19 14:54:42,877 [INFO] API connection successful
+2025-03-19 14:54:43,220 [INFO] Found 293 records
+2025-03-19 14:54:43,246 [INFO] Latest record: PF11F4SV
+2025-03-19 14:54:43,419 [INFO] Last processed time: 2025-03-19 14:48:00
+2025-03-19 14:54:43,423 [INFO] Current record count - main database: 1533, development database: 1533
+2025-03-19 14:54:43,427 [INFO] Found 1 new records to process
+2025-03-19 14:54:43,427 [INFO] Updating zerodb database...
+2025-03-19 14:54:43,497 [INFO] Processing record in zerodb: SerialNumber=PF11F4SV, Timestamp=2025-03-19 14:54:00
+2025-03-19 14:54:43,504 [INFO] Inserting new record to zerodb: {'serialnumber': 'PF11F4SV', 'computername': 'DESKTOP-K05M6G3', 'manufacturer': 'LENOVO', 'model': '20L50011US', 'systemsku': 'LENOVO_MT_20L5_BU_Think_FM_ThinkPad T480', 'ram_gb': 16.0, 'disks': '256GB', 'created_at': '3/19/2025 14:54', 'operatingsystem': 'Microsoft Windows 11 Pro 10.0.26100', 'cpu': 'Intel(R) Core(TM) i5-8350U CPU @ 1.70GHz (4C/8T)', 'resolution': '1920x1080', 'graphicscard': 'Intel(R) UHD Graphics 620 [1920x1080]', 'touchscreen': 'Not Detected', 'design_capacity': '23940, 71100', 'full_charge_capacity': '18750, 71100', 'cycle_count': '86, 0', 'battery_health': '78.32, 100'}
+2025-03-19 14:54:43,507 [ERROR] Error inserting record: invalid input syntax for type bigint: "23940, 71100"
+CONTEXT:  unnamed portal parameter $14 = '...'
+2025-03-19 14:54:43,508 [INFO] Processed 0 new records
+2025-03-19 14:54:43,509 [INFO] Updating zerodev database...
+2025-03-19 14:54:43,575 [INFO] Processing record in zerodev: SerialNumber=PF11F4SV, Timestamp=2025-03-19 14:54:00
+2025-03-19 14:54:43,583 [INFO] Inserting new record to zerodev: {'serialnumber': 'PF11F4SV', 'computername': 'DESKTOP-K05M6G3', 'manufacturer': 'LENOVO', 'model': '20L50011US', 'systemsku': 'LENOVO_MT_20L5_BU_Think_FM_ThinkPad T480', 'ram_gb': 16.0, 'disks': '256GB', 'created_at': '3/19/2025 14:54', 'operatingsystem': 'Microsoft Windows 11 Pro 10.0.26100', 'cpu': 'Intel(R) Core(TM) i5-8350U CPU @ 1.70GHz (4C/8T)', 'resolution': '1920x1080', 'graphicscard': 'Intel(R) UHD Graphics 620 [1920x1080]', 'touchscreen': 'Not Detected', 'design_capacity': '23940, 71100', 'full_charge_capacity': '18750, 71100', 'cycle_count': '86, 0', 'battery_health': '78.32, 100'}
+2025-03-19 14:54:43,585 [ERROR] Error inserting record: invalid input syntax for type bigint: "23940, 71100"
+CONTEXT:  unnamed portal parameter $14 = '...'
+2025-03-19 14:54:43,586 [INFO] Processed 0 new records
+2025-03-19 14:54:43,730 [INFO] Updated record counts - zerodb: 1533, zerodev: 1533
+2025-03-19 14:54:44,193 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 14:54:46,314 [INFO] File update detected: \\192.168.0.10\Files\03_IT\data\product_keys_Mar2025.csv
+2025-03-19 14:54:46,315 [INFO] Processing product keys from: \\192.168.0.10\Files\03_IT\data\product_keys_Mar2025.csv
+2025-03-19 14:54:46,335 [INFO] Found 204 records in CSV
+2025-03-19 14:54:47,057 [INFO] Processed total: 204 records
+2025-03-19 14:54:47,057 [INFO] Updated: 204 records
+2025-03-19 14:54:47,058 [INFO] Added: 0 new records
+2025-03-19 14:54:47,386 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 15:24:14,525 [INFO] File update detected: \\192.168.0.10\Files\03_IT\data\system_records_Mar2025.csv
+2025-03-19 15:24:14,526 [INFO] Processing system records: system_records_Mar2025.csv
+2025-03-19 15:24:14,925 [INFO] API connection successful
+2025-03-19 15:24:14,960 [INFO] Found 293 records
+2025-03-19 15:24:14,984 [INFO] Latest record: PF11F4SV
+2025-03-19 15:24:15,153 [INFO] Last processed time: 2025-03-19 14:48:00
+2025-03-19 15:24:15,157 [INFO] Current record count - main database: 1533, development database: 1533
+2025-03-19 15:24:15,158 [INFO] Found 1 new records to process
+2025-03-19 15:24:15,159 [INFO] Updating zerodb database...
+2025-03-19 15:24:15,223 [INFO] Processing record in zerodb: SerialNumber=PF11F4SV, Timestamp=2025-03-19 15:24:00
+2025-03-19 15:24:15,230 [INFO] Inserting new record to zerodb: {'serialnumber': 'PF11F4SV', 'computername': 'DESKTOP-K05M6G3', 'manufacturer': 'LENOVO', 'model': '20L50011US', 'systemsku': 'LENOVO_MT_20L5_BU_Think_FM_ThinkPad T480', 'ram_gb': 16.0, 'disks': '256GB', 'created_at': '3/19/2025 15:24', 'operatingsystem': 'Microsoft Windows 11 Pro 10.0.26100', 'cpu': 'Intel(R) Core(TM) i5-8350U CPU @ 1.70GHz (4C/8T)', 'resolution': '1920x1080', 'graphicscard': 'Intel(R) UHD Graphics 620 [1920x1080]', 'touchscreen': 'Not Detected', 'design_capacity': '23940, 71100', 'full_charge_capacity': '18750, 71100', 'cycle_count': '86, 0', 'battery_health': '78.32, 100'}
+2025-03-19 15:24:15,233 [ERROR] Error inserting record: invalid input syntax for type bigint: "23940, 71100"
+CONTEXT:  unnamed portal parameter $14 = '...'
+2025-03-19 15:24:15,234 [INFO] Processed 0 new records
+2025-03-19 15:24:15,236 [INFO] Updating zerodev database...
+2025-03-19 15:24:15,305 [INFO] Processing record in zerodev: SerialNumber=PF11F4SV, Timestamp=2025-03-19 15:24:00
+2025-03-19 15:24:15,314 [INFO] Inserting new record to zerodev: {'serialnumber': 'PF11F4SV', 'computername': 'DESKTOP-K05M6G3', 'manufacturer': 'LENOVO', 'model': '20L50011US', 'systemsku': 'LENOVO_MT_20L5_BU_Think_FM_ThinkPad T480', 'ram_gb': 16.0, 'disks': '256GB', 'created_at': '3/19/2025 15:24', 'operatingsystem': 'Microsoft Windows 11 Pro 10.0.26100', 'cpu': 'Intel(R) Core(TM) i5-8350U CPU @ 1.70GHz (4C/8T)', 'resolution': '1920x1080', 'graphicscard': 'Intel(R) UHD Graphics 620 [1920x1080]', 'touchscreen': 'Not Detected', 'design_capacity': '23940, 71100', 'full_charge_capacity': '18750, 71100', 'cycle_count': '86, 0', 'battery_health': '78.32, 100'}
+2025-03-19 15:24:15,316 [ERROR] Error inserting record: invalid input syntax for type bigint: "23940, 71100"
+CONTEXT:  unnamed portal parameter $14 = '...'
+2025-03-19 15:24:15,317 [INFO] Processed 0 new records
+2025-03-19 15:24:15,468 [INFO] Updated record counts - zerodb: 1533, zerodev: 1533
+2025-03-19 15:24:15,809 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 15:24:17,968 [INFO] File update detected: \\192.168.0.10\Files\03_IT\data\product_keys_Mar2025.csv
+2025-03-19 15:24:17,968 [INFO] Processing product keys from: \\192.168.0.10\Files\03_IT\data\product_keys_Mar2025.csv
+2025-03-19 15:24:17,991 [INFO] Found 204 records in CSV
+2025-03-19 15:24:18,686 [INFO] Processed total: 204 records
+2025-03-19 15:24:18,686 [INFO] Updated: 204 records
+2025-03-19 15:24:18,687 [INFO] Added: 0 new records
+2025-03-19 15:24:18,991 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 15:42:19,342 [INFO] File update detected: \\192.168.0.10\Files\03_IT\data\system_records_Mar2025.csv
+2025-03-19 15:42:19,343 [INFO] Processing system records: system_records_Mar2025.csv
+2025-03-19 15:42:20,025 [INFO] API connection successful
+2025-03-19 15:42:20,053 [INFO] Found 293 records
+2025-03-19 15:42:20,080 [INFO] Latest record: PF11F4SV
+2025-03-19 15:42:20,252 [INFO] Last processed time: 2025-03-19 14:48:00
+2025-03-19 15:42:20,255 [INFO] Current record count - main database: 1533, development database: 1533
+2025-03-19 15:42:20,257 [INFO] Found 1 new records to process
+2025-03-19 15:42:20,257 [INFO] Updating zerodb database...
+2025-03-19 15:42:20,325 [INFO] Processing record in zerodb: SerialNumber=PF11F4SV, Timestamp=2025-03-19 15:42:00
+2025-03-19 15:42:20,334 [INFO] Inserting new record to zerodb: {'serialnumber': 'PF11F4SV', 'computername': 'DESKTOP-K05M6G3', 'manufacturer': 'LENOVO', 'model': '20L50011US', 'systemsku': 'LENOVO_MT_20L5_BU_Think_FM_ThinkPad T480', 'ram_gb': 16.0, 'disks': '256GB', 'created_at': '3/19/2025 15:42', 'operatingsystem': 'Microsoft Windows 11 Pro 10.0.26100', 'cpu': 'Intel(R) Core(TM) i5-8350U CPU @ 1.70GHz (4C/8T)', 'resolution': '1920x1080', 'graphicscard': 'Intel(R) UHD Graphics 620 [1920x1080]', 'touchscreen': 'Not Detected', 'design_capacity': '23940, 71100', 'full_charge_capacity': '18750, 71100', 'cycle_count': '86, 0', 'battery_health': '78.32, 100'}
+2025-03-19 15:42:20,338 [INFO] Successfully inserted record with ID: 1535
+2025-03-19 15:42:24,047 [INFO] Label printed: PF11F4SV
+2025-03-19 15:42:24,403 [INFO] Successfully uploaded 1 records to API
+2025-03-19 15:42:24,855 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 15:42:24,855 [INFO] Processed 1 new records
+2025-03-19 15:42:24,857 [INFO] Updating zerodev database...
+2025-03-19 15:42:24,934 [INFO] Processing record in zerodev: SerialNumber=PF11F4SV, Timestamp=2025-03-19 15:42:00
+2025-03-19 15:42:24,942 [INFO] Inserting new record to zerodev: {'serialnumber': 'PF11F4SV', 'computername': 'DESKTOP-K05M6G3', 'manufacturer': 'LENOVO', 'model': '20L50011US', 'systemsku': 'LENOVO_MT_20L5_BU_Think_FM_ThinkPad T480', 'ram_gb': 16.0, 'disks': '256GB', 'created_at': '3/19/2025 15:42', 'operatingsystem': 'Microsoft Windows 11 Pro 10.0.26100', 'cpu': 'Intel(R) Core(TM) i5-8350U CPU @ 1.70GHz (4C/8T)', 'resolution': '1920x1080', 'graphicscard': 'Intel(R) UHD Graphics 620 [1920x1080]', 'touchscreen': 'Not Detected', 'design_capacity': '23940, 71100', 'full_charge_capacity': '18750, 71100', 'cycle_count': '86, 0', 'battery_health': '78.32, 100'}
+2025-03-19 15:42:24,946 [INFO] Successfully inserted record with ID: 1535
+2025-03-19 15:42:25,325 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 15:42:25,325 [INFO] Processed 1 new records
+2025-03-19 15:42:25,481 [INFO] Updated record counts - zerodb: 1534, zerodev: 1534
+2025-03-19 15:42:25,896 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 15:42:28,012 [INFO] File update detected: \\192.168.0.10\Files\03_IT\data\product_keys_Mar2025.csv
+2025-03-19 15:42:28,012 [INFO] Processing product keys from: \\192.168.0.10\Files\03_IT\data\product_keys_Mar2025.csv
+2025-03-19 15:42:28,033 [INFO] Found 204 records in CSV
+2025-03-19 15:42:28,724 [INFO] Processed total: 204 records
+2025-03-19 15:42:28,725 [INFO] Updated: 204 records
+2025-03-19 15:42:28,726 [INFO] Added: 0 new records
+2025-03-19 15:42:29,134 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 15:46:49,850 [INFO] File update detected: \\192.168.0.10\Files\03_IT\data\system_records_Mar2025.csv
+2025-03-19 15:46:49,850 [INFO] Processing system records: system_records_Mar2025.csv
+2025-03-19 15:46:49,895 [INFO] Found 293 records
+2025-03-19 15:46:49,918 [INFO] Latest record: PF1KKSSD
+2025-03-19 15:46:50,101 [INFO] Last processed time: 2025-03-19 15:42:00
+2025-03-19 15:46:50,105 [INFO] Current record count - main database: 1534, development database: 1534
+2025-03-19 15:46:50,108 [INFO] Found 1 new records to process
+2025-03-19 15:46:50,108 [INFO] Updating zerodb database...
+2025-03-19 15:46:50,177 [INFO] Processing record in zerodb: SerialNumber=PF1KKSSD, Timestamp=2025-03-19 15:46:00
+2025-03-19 15:46:50,185 [INFO] Inserting new record to zerodb: {'serialnumber': 'PF1KKSSD', 'computername': 'DESKTOP-0GP95L1', 'manufacturer': 'LENOVO', 'model': '20L50018US', 'systemsku': 'LENOVO_MT_20L5_BU_Think_FM_ThinkPad T480', 'ram_gb': 16.0, 'disks': '256GB', 'created_at': '3/19/2025 15:46', 'operatingsystem': 'Microsoft Windows 11 Pro 10.0.26100', 'cpu': 'Intel(R) Core(TM) i7-8650U CPU @ 1.90GHz (4C/8T)', 'resolution': '1920x1080', 'graphicscard': 'Intel(R) UHD Graphics 620 [1920x1080]', 'touchscreen': 'Not Detected', 'design_capacity': '23940, 71100', 'full_charge_capacity': '15040, 71100', 'cycle_count': '186, 0', 'battery_health': '62.82, 100'}
+2025-03-19 15:46:50,191 [INFO] Successfully inserted record with ID: 1536
+2025-03-19 15:46:53,865 [INFO] Label printed: PF1KKSSD
+2025-03-19 15:46:54,828 [INFO] Successfully uploaded 1 records to API
+2025-03-19 15:46:55,238 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 15:46:55,239 [INFO] Processed 1 new records
+2025-03-19 15:46:55,240 [INFO] Updating zerodev database...
+2025-03-19 15:46:55,305 [INFO] Processing record in zerodev: SerialNumber=PF1KKSSD, Timestamp=2025-03-19 15:46:00
+2025-03-19 15:46:55,313 [INFO] Inserting new record to zerodev: {'serialnumber': 'PF1KKSSD', 'computername': 'DESKTOP-0GP95L1', 'manufacturer': 'LENOVO', 'model': '20L50018US', 'systemsku': 'LENOVO_MT_20L5_BU_Think_FM_ThinkPad T480', 'ram_gb': 16.0, 'disks': '256GB', 'created_at': '3/19/2025 15:46', 'operatingsystem': 'Microsoft Windows 11 Pro 10.0.26100', 'cpu': 'Intel(R) Core(TM) i7-8650U CPU @ 1.90GHz (4C/8T)', 'resolution': '1920x1080', 'graphicscard': 'Intel(R) UHD Graphics 620 [1920x1080]', 'touchscreen': 'Not Detected', 'design_capacity': '23940, 71100', 'full_charge_capacity': '15040, 71100', 'cycle_count': '186, 0', 'battery_health': '62.82, 100'}
+2025-03-19 15:46:55,318 [INFO] Successfully inserted record with ID: 1536
+2025-03-19 15:46:55,687 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 15:46:55,687 [INFO] Processed 1 new records
+2025-03-19 15:46:55,864 [INFO] Updated record counts - zerodb: 1535, zerodev: 1535
+2025-03-19 15:46:56,266 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 15:46:58,380 [INFO] File update detected: \\192.168.0.10\Files\03_IT\data\product_keys_Mar2025.csv
+2025-03-19 15:46:58,380 [INFO] Processing product keys from: \\192.168.0.10\Files\03_IT\data\product_keys_Mar2025.csv
+2025-03-19 15:46:58,418 [INFO] Found 204 records in CSV
+2025-03-19 15:46:59,106 [INFO] Processed total: 204 records
+2025-03-19 15:46:59,106 [INFO] Updated: 204 records
+2025-03-19 15:46:59,107 [INFO] Added: 0 new records
+2025-03-19 15:46:59,484 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 16:10:32,650 [INFO] File update detected: \\192.168.0.10\Files\03_IT\data\system_records_Mar2025.csv
+2025-03-19 16:10:32,651 [INFO] Processing system records: system_records_Mar2025.csv
+2025-03-19 16:10:32,685 [INFO] Found 294 records
+2025-03-19 16:10:32,707 [INFO] Latest record: PF221CDA
+2025-03-19 16:10:32,871 [INFO] Last processed time: 2025-03-19 15:46:00
+2025-03-19 16:10:32,875 [INFO] Current record count - main database: 1535, development database: 1535
+2025-03-19 16:10:32,877 [INFO] Found 1 new records to process
+2025-03-19 16:10:32,877 [INFO] Updating zerodb database...
+2025-03-19 16:10:32,946 [INFO] Processing record in zerodb: SerialNumber=PF221CDA, Timestamp=2025-03-19 16:10:00
+2025-03-19 16:10:32,953 [INFO] Inserting new record to zerodb: {'serialnumber': 'PF221CDA', 'computername': 'DESKTOP-9SCOQLP', 'manufacturer': 'LENOVO', 'model': '20QGS39N00', 'systemsku': 'LENOVO_MT_20QG_BU_Think_FM_ThinkPad X1 Yoga 4th', 'ram_gb': 16.0, 'disks': '512GB', 'created_at': '3/19/2025 16:10', 'operatingsystem': 'Microsoft Windows 11 Pro 10.0.26100', 'cpu': 'Intel(R) Core(TM) i5-8365U CPU @ 1.60GHz (4C/8T)', 'resolution': '1920x1080', 'graphicscard': 'Intel(R) UHD Graphics 620 [1920x1080]', 'touchscreen': 'Yes Detected', 'design_capacity': '51010', 'full_charge_capacity': '38360', 'cycle_count': '437', 'battery_health': '75.2'}
+2025-03-19 16:10:33,033 [INFO] Successfully inserted record with ID: 1537
+2025-03-19 16:10:36,714 [INFO] Label printed: PF221CDA
+2025-03-19 16:10:37,268 [INFO] Successfully uploaded 1 records to API
+2025-03-19 16:10:37,797 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 16:10:37,797 [INFO] Processed 1 new records
+2025-03-19 16:10:37,797 [INFO] Updating zerodev database...
+2025-03-19 16:10:37,862 [INFO] Processing record in zerodev: SerialNumber=PF221CDA, Timestamp=2025-03-19 16:10:00
+2025-03-19 16:10:37,870 [INFO] Inserting new record to zerodev: {'serialnumber': 'PF221CDA', 'computername': 'DESKTOP-9SCOQLP', 'manufacturer': 'LENOVO', 'model': '20QGS39N00', 'systemsku': 'LENOVO_MT_20QG_BU_Think_FM_ThinkPad X1 Yoga 4th', 'ram_gb': 16.0, 'disks': '512GB', 'created_at': '3/19/2025 16:10', 'operatingsystem': 'Microsoft Windows 11 Pro 10.0.26100', 'cpu': 'Intel(R) Core(TM) i5-8365U CPU @ 1.60GHz (4C/8T)', 'resolution': '1920x1080', 'graphicscard': 'Intel(R) UHD Graphics 620 [1920x1080]', 'touchscreen': 'Yes Detected', 'design_capacity': '51010', 'full_charge_capacity': '38360', 'cycle_count': '437', 'battery_health': '75.2'}
+2025-03-19 16:10:37,874 [INFO] Successfully inserted record with ID: 1537
+2025-03-19 16:10:38,441 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 16:10:38,442 [INFO] Processed 1 new records
+2025-03-19 16:10:38,625 [INFO] Updated record counts - zerodb: 1536, zerodev: 1536
+2025-03-19 16:10:39,087 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 16:10:41,205 [INFO] File update detected: \\192.168.0.10\Files\03_IT\data\product_keys_Mar2025.csv
+2025-03-19 16:10:41,206 [INFO] Processing product keys from: \\192.168.0.10\Files\03_IT\data\product_keys_Mar2025.csv
+2025-03-19 16:10:41,225 [INFO] Found 205 records in CSV
+2025-03-19 16:10:41,875 [INFO] Processed total: 205 records
+2025-03-19 16:10:41,875 [INFO] Updated: 204 records
+2025-03-19 16:10:41,876 [INFO] Added: 1 new records
+2025-03-19 16:10:42,232 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 16:37:00,381 [INFO] File update detected: \\192.168.0.10\Files\03_IT\data\system_records_Mar2025.csv
+2025-03-19 16:37:00,381 [INFO] Processing system records: system_records_Mar2025.csv
+2025-03-19 16:37:00,422 [INFO] Found 295 records
+2025-03-19 16:37:00,445 [INFO] Latest record: CBWN533
+2025-03-19 16:37:00,612 [INFO] Last processed time: 2025-03-19 16:10:00
+2025-03-19 16:37:00,615 [INFO] Current record count - main database: 1536, development database: 1536
+2025-03-19 16:37:00,617 [INFO] Found 1 new records to process
+2025-03-19 16:37:00,617 [INFO] Updating zerodb database...
+2025-03-19 16:37:00,685 [INFO] Processing record in zerodb: SerialNumber=CBWN533, Timestamp=2025-03-19 17:36:00
+2025-03-19 16:37:00,693 [INFO] Inserting new record to zerodb: {'serialnumber': 'CBWN533', 'computername': 'DESKTOP-M50A42G', 'manufacturer': 'Dell Inc.', 'model': 'Latitude 5400', 'systemsku': '08B8', 'ram_gb': 16.0, 'disks': '512GB', 'created_at': '3/19/2025 17:36', 'operatingsystem': 'Microsoft Windows 11 Pro 10.0.22631', 'cpu': 'Intel(R) Core(TM) i7-8665U CPU @ 1.90GHz (4C/8T)', 'resolution': '1920x1080', 'graphicscard': 'Intel(R) UHD Graphics 620 [1920x1080]', 'touchscreen': 'Yes Detected', 'design_capacity': '68005', 'full_charge_capacity': '51209', 'cycle_count': '0', 'battery_health': '75.3'}
+2025-03-19 16:37:00,698 [INFO] Successfully inserted record with ID: 1538
+2025-03-19 16:37:04,394 [INFO] Label printed: CBWN533
+2025-03-19 16:37:05,022 [INFO] Successfully uploaded 1 records to API
+2025-03-19 16:37:05,703 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 16:37:05,703 [INFO] Processed 1 new records
+2025-03-19 16:37:05,704 [INFO] Updating zerodev database...
+2025-03-19 16:37:05,884 [INFO] Processing record in zerodev: SerialNumber=CBWN533, Timestamp=2025-03-19 17:36:00
+2025-03-19 16:37:05,893 [INFO] Inserting new record to zerodev: {'serialnumber': 'CBWN533', 'computername': 'DESKTOP-M50A42G', 'manufacturer': 'Dell Inc.', 'model': 'Latitude 5400', 'systemsku': '08B8', 'ram_gb': 16.0, 'disks': '512GB', 'created_at': '3/19/2025 17:36', 'operatingsystem': 'Microsoft Windows 11 Pro 10.0.22631', 'cpu': 'Intel(R) Core(TM) i7-8665U CPU @ 1.90GHz (4C/8T)', 'resolution': '1920x1080', 'graphicscard': 'Intel(R) UHD Graphics 620 [1920x1080]', 'touchscreen': 'Yes Detected', 'design_capacity': '68005', 'full_charge_capacity': '51209', 'cycle_count': '0', 'battery_health': '75.3'}
+2025-03-19 16:37:05,898 [INFO] Successfully inserted record with ID: 1538
+2025-03-19 16:37:06,303 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 16:37:06,303 [INFO] Processed 1 new records
+2025-03-19 16:37:06,477 [INFO] Updated record counts - zerodb: 1537, zerodev: 1537
+2025-03-19 16:37:06,860 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 16:37:08,974 [INFO] File update detected: \\192.168.0.10\Files\03_IT\data\product_keys_Mar2025.csv
+2025-03-19 16:37:08,974 [INFO] Processing product keys from: \\192.168.0.10\Files\03_IT\data\product_keys_Mar2025.csv
+2025-03-19 16:37:08,995 [INFO] Found 175 records in CSV
+2025-03-19 16:37:09,536 [INFO] Processed total: 175 records
+2025-03-19 16:37:09,536 [INFO] Updated: 175 records
+2025-03-19 16:37:09,536 [INFO] Added: 0 new records
+2025-03-19 16:37:09,898 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 16:37:22,324 [INFO] File update detected: \\192.168.0.10\Files\03_IT\data\system_records_Mar2025.csv
+2025-03-19 16:37:22,324 [INFO] Processing system records: system_records_Mar2025.csv
+2025-03-19 16:37:22,349 [INFO] Found 295 records
+2025-03-19 16:37:22,373 [INFO] Latest record: CBWN533
+2025-03-19 16:37:22,540 [INFO] Last processed time: 2025-03-19 17:36:00
+2025-03-19 16:37:22,544 [INFO] Current record count - main database: 1537, development database: 1537
+2025-03-19 16:37:22,546 [INFO] Found 0 new records to process
+2025-03-19 16:37:22,546 [INFO] No new records to process
+2025-03-19 16:37:22,546 [INFO] Skipping print for SN: CBWN533 - recently printed
+2025-03-19 16:37:24,661 [INFO] File update detected: \\192.168.0.10\Files\03_IT\data\product_keys_Mar2025.csv
+2025-03-19 16:37:24,661 [INFO] Processing product keys from: \\192.168.0.10\Files\03_IT\data\product_keys_Mar2025.csv
+2025-03-19 16:37:24,692 [INFO] Found 176 records in CSV
+2025-03-19 16:37:25,195 [INFO] Processed total: 176 records
+2025-03-19 16:37:25,195 [INFO] Updated: 175 records
+2025-03-19 16:37:25,196 [INFO] Added: 1 new records
+2025-03-19 16:37:25,552 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 16:37:39,577 [INFO] File update detected: \\192.168.0.10\Files\03_IT\data\system_records_Mar2025.csv
+2025-03-19 16:37:39,578 [INFO] Processing system records: system_records_Mar2025.csv
+2025-03-19 16:37:39,612 [INFO] Found 295 records
+2025-03-19 16:37:39,634 [INFO] Latest record: CBWN533
+2025-03-19 16:37:39,784 [INFO] Last processed time: 2025-03-19 17:36:00
+2025-03-19 16:37:39,788 [INFO] Current record count - main database: 1537, development database: 1537
+2025-03-19 16:37:39,790 [INFO] Found 0 new records to process
+2025-03-19 16:37:39,791 [INFO] No new records to process
+2025-03-19 16:37:39,791 [INFO] Attempting to print label for latest CSV record: CBWN533 (2025-03-19 16:37:00)
+2025-03-19 16:37:39,868 [INFO] Found matching record in database - ID: 1538, Created: 2025-03-19 17:36:00
+2025-03-19 16:37:43,016 [INFO] Successfully reprinted label for SN: CBWN533
+2025-03-19 17:03:59,520 [INFO] File update detected: \\192.168.0.10\Files\03_IT\data\system_records_Mar2025.csv
+2025-03-19 17:03:59,520 [INFO] Processing system records: system_records_Mar2025.csv
+2025-03-19 17:03:59,554 [INFO] Found 295 records
+2025-03-19 17:03:59,577 [INFO] Latest record: CBWN533
+2025-03-19 17:03:59,735 [INFO] Last processed time: 2025-03-19 17:36:00
+2025-03-19 17:03:59,739 [INFO] Current record count - main database: 1537, development database: 1537
+2025-03-19 17:03:59,742 [INFO] Found 0 new records to process
+2025-03-19 17:03:59,742 [INFO] No new records to process
+2025-03-19 17:03:59,743 [INFO] Attempting to print label for latest CSV record: CBWN533 (2025-03-19 17:03:00)
+2025-03-19 17:03:59,818 [INFO] Found matching record in database - ID: 1538, Created: 2025-03-19 17:36:00
+2025-03-19 17:04:02,959 [INFO] Successfully reprinted label for SN: CBWN533
+2025-03-19 17:04:05,075 [INFO] File update detected: \\192.168.0.10\Files\03_IT\data\product_keys_Mar2025.csv
+2025-03-19 17:04:05,075 [INFO] Processing product keys from: \\192.168.0.10\Files\03_IT\data\product_keys_Mar2025.csv
+2025-03-19 17:04:05,098 [INFO] Found 176 records in CSV
+2025-03-19 17:04:05,761 [INFO] Processed total: 176 records
+2025-03-19 17:04:05,762 [INFO] Updated: 176 records
+2025-03-19 17:04:05,762 [INFO] Added: 0 new records
+2025-03-19 17:04:06,128 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 17:16:08,016 [INFO] File update detected: \\192.168.0.10\Files\03_IT\data\system_records_Mar2025.csv
+2025-03-19 17:16:08,016 [INFO] Processing system records: system_records_Mar2025.csv
+2025-03-19 17:16:08,056 [INFO] Found 296 records
+2025-03-19 17:16:08,079 [INFO] Latest record: PF221VAR
+2025-03-19 17:16:08,244 [INFO] Last processed time: 2025-03-19 17:36:00
+2025-03-19 17:16:08,248 [INFO] Current record count - main database: 1537, development database: 1537
+2025-03-19 17:16:08,250 [INFO] Found 1 new records to process
+2025-03-19 17:16:08,250 [INFO] Updating zerodb database...
+2025-03-19 17:16:08,332 [INFO] Processing record in zerodb: SerialNumber=PF221VAR, Timestamp=2025-03-19 17:16:00
+2025-03-19 17:16:08,341 [INFO] Inserting new record to zerodb: {'serialnumber': 'PF221VAR', 'computername': 'DESKTOP-7A5474K', 'manufacturer': 'LENOVO', 'model': '20QGS39N00', 'systemsku': 'LENOVO_MT_20QG_BU_Think_FM_ThinkPad X1 Yoga 4th', 'ram_gb': 16.0, 'disks': '512GB', 'created_at': '3/19/2025 17:16', 'operatingsystem': 'Microsoft Windows 11 Pro 10.0.26100', 'cpu': 'Intel(R) Core(TM) i5-8365U CPU @ 1.60GHz (4C/8T)', 'resolution': '1920x1080', 'graphicscard': 'Microsoft Basic Display Adapter [1920x1080]', 'touchscreen': 'Yes Detected', 'design_capacity': '51010', 'full_charge_capacity': '41400', 'cycle_count': '516', 'battery_health': '81.16'}
+2025-03-19 17:16:08,366 [INFO] Successfully inserted record with ID: 1539
+2025-03-19 17:16:12,032 [INFO] Label printed: PF221VAR
+2025-03-19 17:16:12,427 [INFO] Successfully uploaded 1 records to API
+2025-03-19 17:16:12,825 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 17:16:12,826 [INFO] Processed 1 new records
+2025-03-19 17:16:12,826 [INFO] Updating zerodev database...
+2025-03-19 17:16:12,901 [INFO] Processing record in zerodev: SerialNumber=PF221VAR, Timestamp=2025-03-19 17:16:00
+2025-03-19 17:16:12,910 [INFO] Inserting new record to zerodev: {'serialnumber': 'PF221VAR', 'computername': 'DESKTOP-7A5474K', 'manufacturer': 'LENOVO', 'model': '20QGS39N00', 'systemsku': 'LENOVO_MT_20QG_BU_Think_FM_ThinkPad X1 Yoga 4th', 'ram_gb': 16.0, 'disks': '512GB', 'created_at': '3/19/2025 17:16', 'operatingsystem': 'Microsoft Windows 11 Pro 10.0.26100', 'cpu': 'Intel(R) Core(TM) i5-8365U CPU @ 1.60GHz (4C/8T)', 'resolution': '1920x1080', 'graphicscard': 'Microsoft Basic Display Adapter [1920x1080]', 'touchscreen': 'Yes Detected', 'design_capacity': '51010', 'full_charge_capacity': '41400', 'cycle_count': '516', 'battery_health': '81.16'}
+2025-03-19 17:16:12,916 [INFO] Successfully inserted record with ID: 1539
+2025-03-19 17:16:13,342 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 17:16:13,342 [INFO] Processed 1 new records
+2025-03-19 17:16:13,502 [INFO] Updated record counts - zerodb: 1538, zerodev: 1538
+2025-03-19 17:16:13,892 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html
+2025-03-19 17:16:16,005 [INFO] File update detected: \\192.168.0.10\Files\03_IT\data\product_keys_Mar2025.csv
+2025-03-19 17:16:16,005 [INFO] Processing product keys from: \\192.168.0.10\Files\03_IT\data\product_keys_Mar2025.csv
+2025-03-19 17:16:16,024 [INFO] Found 177 records in CSV
+2025-03-19 17:16:16,578 [INFO] Processed total: 177 records
+2025-03-19 17:16:16,579 [INFO] Updated: 176 records
+2025-03-19 17:16:16,579 [INFO] Added: 1 new records
+2025-03-19 17:16:16,933 [INFO] Updated preview: C:\Users\Zerouniquqe\Documents\projects\label_printer\src\preview.html

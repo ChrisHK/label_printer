@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Database Records Preview</title>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="static/style.css">
+    <style>
+        /* ... 保留原有的 CSS 樣式 ... */
+        
+        /* 新增: 數據庫切換標籤樣式 */
+        .db-tabs {
+            margin: 20px 0;
+            border-bottom: 1px solid #ddd;
+        }
+        .db-tab {
+            display: inline-block;
+            padding: 10px 20px;
+            cursor: pointer;
+            border: 1px solid #ddd;
+            border-bottom: none;
+            margin-right: 5px;
+        }
+        .db-tab.active {
+            background-color: #f8f9fa;
+            border-bottom: 1px solid #f8f9fa;
+        }
+        .db-content {
+            display: none;
+        }
+        .db-content.active {
+            display: block;
+        }
+    </style>
+</head>
+<body>
+    <h1>Database Records Preview</h1>
+    <p>Last updated: {{ timestamp }}</p>
+
+    <!-- 數據庫切換標籤 -->
+    <div class="db-tabs">
+        <div class="db-tab active" onclick="switchDatabase('primary')">Primary Database</div>
+        <div class="db-tab" onclick="switchDatabase('dev')">Development Database</div>
+    </div>
+
+    <!-- 主數據庫內容 -->
+    <div id="primary-db" class="db-content active">
+        <h2>Primary Database (zerodb)</h2>
+        <div class="stats">
+            <p>Total System Records: {{ system_records_count }}</p>
+            <p>Total Product Keys: {{ product_keys_count }}</p>
+        </div>
+
+        <h3>System Records</h3>
+        <table>
+            <tr>
+                <th>Serial Number</th>
+                <th>Computer Name</th>
+                <th>Manufacturer</th>
+                <th>Model</th>
+                <th>System SKU</th>
+                <th>OS</th>
+                <th>CPU</th>
+                <th>Resolution</th>
+                <th>Graphics</th>
+                <th>Touch</th>
+                <th>RAM (GB)</th>
+                <th>Disks</th>
+                <th>Design Cap.</th>
+                <th>Full Cap.</th>
+                <th>Cycles</th>
+                <th>Health</th>
+                <th>Created</th>
+                <th>Actions</th>
+            </tr>
+            {{ system_records_pages }}
+        </table>
+
+        <h3>Product Keys</h3>
+        <table>
+            <tr>
+                <th>Computer Name</th>
+                <th>Windows OS</th>
+                <th>Product Key</th>
+                <th>Created</th>
+            </tr>
+            {{ product_keys_pages }}
+        </table>
+    </div>
+
+    <!-- 開發數據庫內容 -->
+    <div id="dev-db" class="db-content">
+        <h2>Development Database (zerodev)</h2>
+        <div class="stats">
+            <p>Total System Records: {{ dev_system_records_count }}</p>
+            <p>Total Product Keys: {{ dev_product_keys_count }}</p>
+        </div>
+
+        <h3>System Records</h3>
+        <table>
+            <tr>
+                <th>Serial Number</th>
+                <th>Computer Name</th>
+                <th>Manufacturer</th>
+                <th>Model</th>
+                <th>System SKU</th>
+                <th>OS</th>
+                <th>CPU</th>
+                <th>Resolution</th>
+                <th>Graphics</th>
+                <th>Touch</th>
+                <th>RAM (GB)</th>
+                <th>Disks</th>
+                <th>Design Cap.</th>
+                <th>Full Cap.</th>
+                <th>Cycles</th>
+                <th>Health</th>
+                <th>Created</th>
+                <th>Actions</th>
+            </tr>
+            {{ dev_system_records_pages }}
+        </table>
+
+        <h3>Product Keys</h3>
+        <table>
+            <tr>
+                <th>Computer Name</th>
+                <th>Windows OS</th>
+                <th>Product Key</th>
+                <th>Created</th>
+            </tr>
+            {{ dev_product_keys_pages }}
+        </table>
+    </div>
+
+    <script>
+        function switchDatabase(dbType) {
+            // 移除所有活動狀態
+            document.querySelectorAll('.db-tab').forEach(tab => tab.classList.remove('active'));
+            document.querySelectorAll('.db-content').forEach(content => content.classList.remove('active'));
+            
+            // 設置選中的數據庫為活動狀態
+            if (dbType === 'primary') {
+                document.querySelector('.db-tab:first-child').classList.add('active');
+                document.getElementById('primary-db').classList.add('active');
+            } else {
+                document.querySelector('.db-tab:last-child').classList.add('active');
+                document.getElementById('dev-db').classList.add('active');
+            }
+        }
+
+        function printLabel(serialNumber, timestamp) {
+            const apiUrl = `/print_label/${serialNumber}?timestamp=${encodeURIComponent(timestamp)}`;
+            
+            fetch(apiUrl, {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                    'Authorization': 'Basic ' + btoa('share:share')
+                }
+            })
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+                return response.json();
+            })
+            .then(data => {
+                if (data.success) {
+                    alert('Label printed successfully');
+                } else {
+                    alert('Failed to print label: ' + (data.message || 'Unknown error'));
+                }
+            })
+            .catch(error => {
+                console.error('Error:', error);
+                alert('Error printing label: ' + error.message);
+            });
+        }
+
+        function viewDetails(serialNumber) {
+            alert('Details for ' + serialNumber);
+        }
+    </script>
+</body>
+</html> 

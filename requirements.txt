@@ -1,0 +1,9 @@
+flask==3.0.2
+pandas==2.2.3
+watchdog==4.0.1
+requests==2.31.0
+psycopg[binary]==3.2.6
+pywin32==310
+reportlab==4.1.0
+flask-cors==4.0.0
+flask-basicauth==0.2.0 

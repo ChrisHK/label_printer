@@ -1,0 +1,425 @@
+2025-03-18 16:51:46,657 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.239:5000
+2025-03-18 16:51:46,657 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-18 16:51:47,868 - werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 16:51:47] "GET / HTTP/1.1" 200 -
+2025-03-18 16:51:49,931 - werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 16:51:49] "[33mGET /api/failed_uploads HTTP/1.1[0m" 404 -
+2025-03-18 16:52:05,725 - werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 16:52:05] "[33mGET /api/failed_uploads HTTP/1.1[0m" 404 -
+2025-03-18 17:17:09,407 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.239:5000
+2025-03-18 17:17:09,407 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-18 17:17:10,606 - werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 17:17:10] "GET / HTTP/1.1" 200 -
+2025-03-18 17:20:35,674 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-18 17:20:35,674 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-18 17:23:45,193 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.239:5000
+2025-03-18 17:23:45,193 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-18 17:23:46,373 - werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 17:23:46] "GET / HTTP/1.1" 200 -
+2025-03-18 17:23:49,511 - werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 17:23:49] "[36mGET / HTTP/1.1[0m" 304 -
+2025-03-18 17:25:21,945 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-18 17:25:21,946 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-18 17:26:13,450 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-18 17:26:13,451 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-18 17:26:42,302 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.239:5000
+2025-03-18 17:26:42,302 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-18 17:26:43,711 - werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 17:26:43] "GET / HTTP/1.1" 200 -
+2025-03-18 17:27:49,487 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-18 17:27:49,487 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-18 17:32:21,493 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-18 17:32:21,493 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-18 17:32:42,484 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.239:5000
+2025-03-18 17:32:42,485 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-18 17:32:43,597 - werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 17:32:43] "GET / HTTP/1.1" 200 -
+2025-03-18 17:33:22,034 - werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 17:33:22] "GET / HTTP/1.1" 200 -
+2025-03-18 17:34:15,001 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.239:5000
+2025-03-18 17:34:15,001 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-18 17:34:16,100 - werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 17:34:16] "GET / HTTP/1.1" 200 -
+2025-03-18 17:34:20,527 - werkzeug - INFO - 127.0.0.1 - - [18/Mar/2025 17:34:20] "[36mGET / HTTP/1.1[0m" 304 -
+2025-03-19 09:34:01,920 [INFO] 查找近 7 天內的失敗上傳...
+2025-03-19 09:34:01,922 [INFO] 找到 2 個日誌文件進行分析
+2025-03-19 09:34:01,923 [INFO] 分析日誌文件: sync_20250318.log
+2025-03-19 09:34:01,924 [INFO] 分析日誌文件: sync_20250319.log
+2025-03-19 09:34:01,924 [INFO] 總共找到 0 條失敗的API上傳
+2025-03-19 09:35:00,152 [INFO] ===== 開始API上傳重試流程 =====
+2025-03-19 09:35:00,152 [INFO] 查找近 4 天內的失敗上傳...
+2025-03-19 09:35:00,155 [INFO] 找到 2 個日誌文件進行分析
+2025-03-19 09:35:00,155 [INFO] 分析日誌文件: sync_20250318.log
+2025-03-19 09:35:00,156 [INFO] 分析日誌文件: sync_20250319.log
+2025-03-19 09:35:00,156 [INFO] 總共找到 0 條失敗的API上傳
+2025-03-19 09:35:00,157 [INFO] 沒有找到失敗的API上傳記錄
+2025-03-19 09:35:26,032 [INFO] ===== 開始API上傳重試流程 =====
+2025-03-19 09:35:26,032 [INFO] 查找近 7 天內的失敗上傳...
+2025-03-19 09:35:26,035 [INFO] 找到 2 個日誌文件進行分析
+2025-03-19 09:35:26,035 [INFO] 分析日誌文件: sync_20250318.log
+2025-03-19 09:35:26,037 [INFO] 分析日誌文件: sync_20250319.log
+2025-03-19 09:35:26,037 [INFO] 總共找到 0 條失敗的API上傳
+2025-03-19 09:35:26,037 [INFO] 沒有找到失敗的API上傳記錄
+2025-03-19 09:35:30,223 [INFO] ===== 開始API上傳重試流程 =====
+2025-03-19 09:35:30,224 [INFO] 查找近 8 天內的失敗上傳...
+2025-03-19 09:35:30,226 [INFO] 找到 3 個日誌文件進行分析
+2025-03-19 09:35:30,227 [INFO] 分析日誌文件: sync_20250312.log
+2025-03-19 09:35:30,245 [INFO] 在此文件中找到 31 條失敗記錄
+2025-03-19 09:35:30,245 [INFO] 分析日誌文件: sync_20250318.log
+2025-03-19 09:35:30,246 [INFO] 分析日誌文件: sync_20250319.log
+2025-03-19 09:35:30,247 [INFO] 總共找到 31 條失敗的API上傳
+2025-03-19 09:35:30,247 [INFO] other 錯誤: 9 條
+2025-03-19 09:35:30,248 [INFO] authentication 錯誤: 22 條
+2025-03-19 09:35:30,248 [INFO] 找到 31 條新的失敗上傳
+2025-03-19 09:35:30,250 [INFO] 結果已保存到 C:\Users\Zerouniquqe\Documents\projects\label_printer\results\api_retry_results.json
+2025-03-19 09:35:30,263 [INFO] 找到 31 條待處理的失敗上傳
+2025-03-19 09:35:30,263 [INFO] 準備重試上傳記錄ID: 1482
+2025-03-19 09:35:37,360 [INFO] API連接成功
+2025-03-19 09:35:37,361 [ERROR] 重試上傳時出錯: Object of type Decimal is not JSON serializable
+2025-03-19 09:35:37,362 [INFO] 記錄 1482 重試失敗: 上傳過程中出錯: Object of type Decimal is not JSON serializable
+2025-03-19 09:35:37,364 [INFO] 結果已保存到 C:\Users\Zerouniquqe\Documents\projects\label_printer\results\api_retry_results.json
+2025-03-19 09:35:39,365 [INFO] 準備重試上傳記錄ID: 1483
+2025-03-19 09:35:39,443 [ERROR] 重試上傳時出錯: Object of type Decimal is not JSON serializable
+2025-03-19 09:35:39,443 [INFO] 記錄 1483 重試失敗: 上傳過程中出錯: Object of type Decimal is not JSON serializable
+2025-03-19 09:35:39,445 [INFO] 結果已保存到 C:\Users\Zerouniquqe\Documents\projects\label_printer\results\api_retry_results.json
+2025-03-19 09:35:41,448 [INFO] 準備重試上傳記錄ID: 1484
+2025-03-19 09:35:41,539 [ERROR] 重試上傳時出錯: Object of type Decimal is not JSON serializable
+2025-03-19 09:35:41,540 [INFO] 記錄 1484 重試失敗: 上傳過程中出錯: Object of type Decimal is not JSON serializable
+2025-03-19 09:35:41,542 [INFO] 結果已保存到 C:\Users\Zerouniquqe\Documents\projects\label_printer\results\api_retry_results.json
+2025-03-19 09:35:43,546 [INFO] 準備重試上傳記錄ID: 1485
+2025-03-19 09:35:43,625 [ERROR] 重試上傳時出錯: Object of type Decimal is not JSON serializable
+2025-03-19 09:35:43,626 [INFO] 記錄 1485 重試失敗: 上傳過程中出錯: Object of type Decimal is not JSON serializable
+2025-03-19 09:35:43,627 [INFO] 結果已保存到 C:\Users\Zerouniquqe\Documents\projects\label_printer\results\api_retry_results.json
+2025-03-19 09:35:45,631 [INFO] 準備重試上傳記錄ID: 1486
+2025-03-19 09:35:45,714 [ERROR] 重試上傳時出錯: Object of type Decimal is not JSON serializable
+2025-03-19 09:35:45,714 [INFO] 記錄 1486 重試失敗: 上傳過程中出錯: Object of type Decimal is not JSON serializable
+2025-03-19 09:35:45,716 [INFO] 結果已保存到 C:\Users\Zerouniquqe\Documents\projects\label_printer\results\api_retry_results.json
+2025-03-19 09:35:47,716 [INFO] 準備重試上傳記錄ID: 1487
+2025-03-19 09:35:47,791 [ERROR] 重試上傳時出錯: Object of type Decimal is not JSON serializable
+2025-03-19 09:35:47,791 [INFO] 記錄 1487 重試失敗: 上傳過程中出錯: Object of type Decimal is not JSON serializable
+2025-03-19 09:35:47,794 [INFO] 結果已保存到 C:\Users\Zerouniquqe\Documents\projects\label_printer\results\api_retry_results.json
+2025-03-19 09:35:49,796 [INFO] 準備重試上傳記錄ID: 1488
+2025-03-19 09:35:49,890 [ERROR] 重試上傳時出錯: Object of type Decimal is not JSON serializable
+2025-03-19 09:35:49,891 [INFO] 記錄 1488 重試失敗: 上傳過程中出錯: Object of type Decimal is not JSON serializable
+2025-03-19 09:35:49,893 [INFO] 結果已保存到 C:\Users\Zerouniquqe\Documents\projects\label_printer\results\api_retry_results.json
+2025-03-19 09:35:51,894 [INFO] 準備重試上傳記錄ID: 1489
+2025-03-19 09:35:51,976 [ERROR] 重試上傳時出錯: Object of type Decimal is not JSON serializable
+2025-03-19 09:35:51,977 [INFO] 記錄 1489 重試失敗: 上傳過程中出錯: Object of type Decimal is not JSON serializable
+2025-03-19 09:35:51,978 [INFO] 結果已保存到 C:\Users\Zerouniquqe\Documents\projects\label_printer\results\api_retry_results.json
+2025-03-19 09:35:53,981 [INFO] 準備重試上傳記錄ID: 1490
+2025-03-19 09:35:54,059 [ERROR] 重試上傳時出錯: Object of type Decimal is not JSON serializable
+2025-03-19 09:35:54,059 [INFO] 記錄 1490 重試失敗: 上傳過程中出錯: Object of type Decimal is not JSON serializable
+2025-03-19 09:35:54,060 [INFO] 結果已保存到 C:\Users\Zerouniquqe\Documents\projects\label_printer\results\api_retry_results.json
+2025-03-19 09:35:56,061 [INFO] 準備重試上傳記錄ID: 1491
+2025-03-19 09:35:56,154 [ERROR] 重試上傳時出錯: Object of type Decimal is not JSON serializable
+2025-03-19 09:35:56,154 [INFO] 記錄 1491 重試失敗: 上傳過程中出錯: Object of type Decimal is not JSON serializable
+2025-03-19 09:35:56,156 [INFO] 結果已保存到 C:\Users\Zerouniquqe\Documents\projects\label_printer\results\api_retry_results.json
+2025-03-19 09:35:58,160 [INFO] 準備重試上傳記錄ID: 1492
+2025-03-19 09:35:58,239 [ERROR] 重試上傳時出錯: Object of type Decimal is not JSON serializable
+2025-03-19 09:35:58,239 [INFO] 記錄 1492 重試失敗: 上傳過程中出錯: Object of type Decimal is not JSON serializable
+2025-03-19 09:35:58,240 [INFO] 結果已保存到 C:\Users\Zerouniquqe\Documents\projects\label_printer\results\api_retry_results.json
+2025-03-19 09:36:00,241 [INFO] 準備重試上傳記錄ID: 1493
+2025-03-19 09:36:00,322 [ERROR] 重試上傳時出錯: Object of type Decimal is not JSON serializable
+2025-03-19 09:36:00,322 [INFO] 記錄 1493 重試失敗: 上傳過程中出錯: Object of type Decimal is not JSON serializable
+2025-03-19 09:36:00,324 [INFO] 結果已保存到 C:\Users\Zerouniquqe\Documents\projects\label_printer\results\api_retry_results.json
+2025-03-19 09:36:02,326 [INFO] 準備重試上傳記錄ID: 1494
+2025-03-19 09:36:02,402 [ERROR] 重試上傳時出錯: Object of type Decimal is not JSON serializable
+2025-03-19 09:36:02,402 [INFO] 記錄 1494 重試失敗: 上傳過程中出錯: Object of type Decimal is not JSON serializable
+2025-03-19 09:36:02,404 [INFO] 結果已保存到 C:\Users\Zerouniquqe\Documents\projects\label_printer\results\api_retry_results.json
+2025-03-19 09:36:04,407 [INFO] 準備重試上傳記錄ID: 1495
+2025-03-19 09:36:04,496 [ERROR] 重試上傳時出錯: Object of type Decimal is not JSON serializable
+2025-03-19 09:36:04,496 [INFO] 記錄 1495 重試失敗: 上傳過程中出錯: Object of type Decimal is not JSON serializable
+2025-03-19 09:36:04,497 [INFO] 結果已保存到 C:\Users\Zerouniquqe\Documents\projects\label_printer\results\api_retry_results.json
+2025-03-19 09:36:06,498 [INFO] 準備重試上傳記錄ID: 1496
+2025-03-19 09:36:06,576 [ERROR] 重試上傳時出錯: Object of type Decimal is not JSON serializable
+2025-03-19 09:36:06,577 [INFO] 記錄 1496 重試失敗: 上傳過程中出錯: Object of type Decimal is not JSON serializable
+2025-03-19 09:36:06,579 [INFO] 結果已保存到 C:\Users\Zerouniquqe\Documents\projects\label_printer\results\api_retry_results.json
+2025-03-19 09:36:08,581 [INFO] 準備重試上傳記錄ID: 1497
+2025-03-19 09:36:08,664 [ERROR] 重試上傳時出錯: Object of type Decimal is not JSON serializable
+2025-03-19 09:36:08,664 [INFO] 記錄 1497 重試失敗: 上傳過程中出錯: Object of type Decimal is not JSON serializable
+2025-03-19 09:36:08,665 [INFO] 結果已保存到 C:\Users\Zerouniquqe\Documents\projects\label_printer\results\api_retry_results.json
+2025-03-19 09:36:10,666 [INFO] 準備重試上傳記錄ID: 1498
+2025-03-19 09:36:10,746 [ERROR] 重試上傳時出錯: Object of type Decimal is not JSON serializable
+2025-03-19 09:36:10,746 [INFO] 記錄 1498 重試失敗: 上傳過程中出錯: Object of type Decimal is not JSON serializable
+2025-03-19 09:36:10,749 [INFO] 結果已保存到 C:\Users\Zerouniquqe\Documents\projects\label_printer\results\api_retry_results.json
+2025-03-19 09:36:12,750 [INFO] 準備重試上傳記錄ID: 1499
+2025-03-19 09:36:12,825 [ERROR] 重試上傳時出錯: Object of type Decimal is not JSON serializable
+2025-03-19 09:36:12,825 [INFO] 記錄 1499 重試失敗: 上傳過程中出錯: Object of type Decimal is not JSON serializable
+2025-03-19 09:36:12,827 [INFO] 結果已保存到 C:\Users\Zerouniquqe\Documents\projects\label_printer\results\api_retry_results.json
+2025-03-19 09:36:14,827 [INFO] 準備重試上傳記錄ID: 1500
+2025-03-19 09:36:15,028 [ERROR] 重試上傳時出錯: Object of type Decimal is not JSON serializable
+2025-03-19 09:36:15,029 [INFO] 記錄 1500 重試失敗: 上傳過程中出錯: Object of type Decimal is not JSON serializable
+2025-03-19 09:36:15,031 [INFO] 結果已保存到 C:\Users\Zerouniquqe\Documents\projects\label_printer\results\api_retry_results.json
+2025-03-19 09:36:17,033 [INFO] 準備重試上傳記錄ID: 1501
+2025-03-19 09:36:17,118 [ERROR] 重試上傳時出錯: Object of type Decimal is not JSON serializable
+2025-03-19 09:36:17,119 [INFO] 記錄 1501 重試失敗: 上傳過程中出錯: Object of type Decimal is not JSON serializable
+2025-03-19 09:36:17,120 [INFO] 結果已保存到 C:\Users\Zerouniquqe\Documents\projects\label_printer\results\api_retry_results.json
+2025-03-19 09:36:19,122 [INFO] 準備重試上傳記錄ID: 1502
+2025-03-19 09:36:19,213 [ERROR] 重試上傳時出錯: Object of type Decimal is not JSON serializable
+2025-03-19 09:36:19,214 [INFO] 記錄 1502 重試失敗: 上傳過程中出錯: Object of type Decimal is not JSON serializable
+2025-03-19 09:36:19,215 [INFO] 結果已保存到 C:\Users\Zerouniquqe\Documents\projects\label_printer\results\api_retry_results.json
+2025-03-19 09:36:21,216 [INFO] 準備重試上傳記錄ID: 1503
+2025-03-19 09:36:21,295 [ERROR] 重試上傳時出錯: Object of type Decimal is not JSON serializable
+2025-03-19 09:36:21,296 [INFO] 記錄 1503 重試失敗: 上傳過程中出錯: Object of type Decimal is not JSON serializable
+2025-03-19 09:36:21,297 [INFO] 結果已保存到 C:\Users\Zerouniquqe\Documents\projects\label_printer\results\api_retry_results.json
+2025-03-19 09:36:23,298 [INFO] 準備重試上傳記錄ID: 1504
+2025-03-19 09:36:23,387 [ERROR] 重試上傳時出錯: Object of type Decimal is not JSON serializable
+2025-03-19 09:36:23,388 [INFO] 記錄 1504 重試失敗: 上傳過程中出錯: Object of type Decimal is not JSON serializable
+2025-03-19 09:36:23,390 [INFO] 結果已保存到 C:\Users\Zerouniquqe\Documents\projects\label_printer\results\api_retry_results.json
+2025-03-19 09:36:25,392 [INFO] 準備重試上傳記錄ID: 1505
+2025-03-19 09:36:25,471 [ERROR] 重試上傳時出錯: Object of type Decimal is not JSON serializable
+2025-03-19 09:36:25,472 [INFO] 記錄 1505 重試失敗: 上傳過程中出錯: Object of type Decimal is not JSON serializable
+2025-03-19 09:36:25,473 [INFO] 結果已保存到 C:\Users\Zerouniquqe\Documents\projects\label_printer\results\api_retry_results.json
+2025-03-19 09:36:27,475 [INFO] 準備重試上傳記錄ID: 1506
+2025-03-19 09:36:27,564 [ERROR] 重試上傳時出錯: Object of type Decimal is not JSON serializable
+2025-03-19 09:36:27,565 [INFO] 記錄 1506 重試失敗: 上傳過程中出錯: Object of type Decimal is not JSON serializable
+2025-03-19 09:36:27,567 [INFO] 結果已保存到 C:\Users\Zerouniquqe\Documents\projects\label_printer\results\api_retry_results.json
+2025-03-19 09:36:29,568 [INFO] 準備重試上傳記錄ID: 1507
+2025-03-19 09:36:29,639 [ERROR] 重試上傳時出錯: Object of type Decimal is not JSON serializable
+2025-03-19 09:36:29,639 [INFO] 記錄 1507 重試失敗: 上傳過程中出錯: Object of type Decimal is not JSON serializable
+2025-03-19 09:36:29,641 [INFO] 結果已保存到 C:\Users\Zerouniquqe\Documents\projects\label_printer\results\api_retry_results.json
+2025-03-19 09:36:31,641 [INFO] 準備重試上傳記錄ID: 1508
+2025-03-19 09:36:31,718 [ERROR] 重試上傳時出錯: Object of type Decimal is not JSON serializable
+2025-03-19 09:36:31,718 [INFO] 記錄 1508 重試失敗: 上傳過程中出錯: Object of type Decimal is not JSON serializable
+2025-03-19 09:36:31,719 [INFO] 結果已保存到 C:\Users\Zerouniquqe\Documents\projects\label_printer\results\api_retry_results.json
+2025-03-19 09:36:33,723 [INFO] 準備重試上傳記錄ID: 1509
+2025-03-19 09:36:33,806 [ERROR] 重試上傳時出錯: Object of type Decimal is not JSON serializable
+2025-03-19 09:36:33,807 [INFO] 記錄 1509 重試失敗: 上傳過程中出錯: Object of type Decimal is not JSON serializable
+2025-03-19 09:36:33,809 [INFO] 結果已保存到 C:\Users\Zerouniquqe\Documents\projects\label_printer\results\api_retry_results.json
+2025-03-19 09:36:35,810 [INFO] 準備重試上傳記錄ID: 1510
+2025-03-19 09:36:35,890 [ERROR] 重試上傳時出錯: Object of type Decimal is not JSON serializable
+2025-03-19 09:36:35,890 [INFO] 記錄 1510 重試失敗: 上傳過程中出錯: Object of type Decimal is not JSON serializable
+2025-03-19 09:36:35,891 [INFO] 結果已保存到 C:\Users\Zerouniquqe\Documents\projects\label_printer\results\api_retry_results.json
+2025-03-19 09:36:37,892 [INFO] 準備重試上傳記錄ID: 1511
+2025-03-19 09:36:37,978 [ERROR] 重試上傳時出錯: Object of type Decimal is not JSON serializable
+2025-03-19 09:36:37,979 [INFO] 記錄 1511 重試失敗: 上傳過程中出錯: Object of type Decimal is not JSON serializable
+2025-03-19 09:36:37,980 [INFO] 結果已保存到 C:\Users\Zerouniquqe\Documents\projects\label_printer\results\api_retry_results.json
+2025-03-19 09:36:39,984 [INFO] 準備重試上傳記錄ID: 1512
+2025-03-19 09:36:40,061 [ERROR] 重試上傳時出錯: Object of type Decimal is not JSON serializable
+2025-03-19 09:36:40,062 [INFO] 記錄 1512 重試失敗: 上傳過程中出錯: Object of type Decimal is not JSON serializable
+2025-03-19 09:36:40,064 [INFO] 結果已保存到 C:\Users\Zerouniquqe\Documents\projects\label_printer\results\api_retry_results.json
+2025-03-19 09:36:42,066 [INFO] 重試完成: 總計 31, 成功 0, 失敗 31, 跳過 0
+2025-03-19 09:36:42,067 [INFO] ===== API上傳重試流程完成 =====
+2025-03-19 09:37:53,103 [INFO] ===== 開始API上傳重試流程 =====
+2025-03-19 09:37:53,104 [INFO] 查找近 8 天內的失敗上傳...
+2025-03-19 09:37:53,106 [INFO] 找到 3 個日誌文件進行分析
+2025-03-19 09:37:53,107 [INFO] 分析日誌文件: sync_20250312.log
+2025-03-19 09:37:53,124 [INFO] 在此文件中找到 31 條失敗記錄
+2025-03-19 09:37:53,125 [INFO] 分析日誌文件: sync_20250318.log
+2025-03-19 09:37:53,127 [INFO] 分析日誌文件: sync_20250319.log
+2025-03-19 09:37:53,128 [INFO] 總共找到 31 條失敗的API上傳
+2025-03-19 09:37:53,128 [INFO] other 錯誤: 9 條
+2025-03-19 09:37:53,129 [INFO] authentication 錯誤: 22 條
+2025-03-19 09:37:53,129 [INFO] 找到 0 條新的失敗上傳
+2025-03-19 09:37:53,131 [INFO] 結果已保存到 C:\Users\Zerouniquqe\Documents\projects\label_printer\results\api_retry_results.json
+2025-03-19 09:37:53,141 [INFO] 找到 31 條待處理的失敗上傳
+2025-03-19 09:37:53,141 [INFO] 準備重試上傳記錄ID: 1482
+2025-03-19 09:37:53,590 [INFO] API連接成功
+2025-03-19 09:37:53,591 [ERROR] 重試上傳時出錯: Object of type datetime is not JSON serializable
+2025-03-19 09:37:53,592 [INFO] 記錄 1482 重試失敗: 上傳過程中出錯: Object of type datetime is not JSON serializable
+2025-03-19 09:37:53,594 [INFO] 結果已保存到 C:\Users\Zerouniquqe\Documents\projects\label_printer\results\api_retry_results.json
+2025-03-19 09:37:55,596 [INFO] 準備重試上傳記錄ID: 1483
+2025-03-19 09:37:55,680 [ERROR] 重試上傳時出錯: Object of type datetime is not JSON serializable
+2025-03-19 09:37:55,680 [INFO] 記錄 1483 重試失敗: 上傳過程中出錯: Object of type datetime is not JSON serializable
+2025-03-19 09:37:55,682 [INFO] 結果已保存到 C:\Users\Zerouniquqe\Documents\projects\label_printer\results\api_retry_results.json
+2025-03-19 09:37:57,683 [INFO] 準備重試上傳記錄ID: 1484
+2025-03-19 09:37:57,762 [ERROR] 重試上傳時出錯: Object of type datetime is not JSON serializable
+2025-03-19 09:37:57,763 [INFO] 記錄 1484 重試失敗: 上傳過程中出錯: Object of type datetime is not JSON serializable
+2025-03-19 09:37:57,764 [INFO] 結果已保存到 C:\Users\Zerouniquqe\Documents\projects\label_printer\results\api_retry_results.json
+2025-03-19 09:39:43,838 [INFO] ===== 開始API上傳重試流程 =====
+2025-03-19 09:39:43,839 [INFO] 查找近 8 天內的失敗上傳...
+2025-03-19 09:39:43,841 [INFO] 找到 3 個日誌文件進行分析
+2025-03-19 09:39:43,842 [INFO] 分析日誌文件: sync_20250312.log
+2025-03-19 09:39:43,861 [INFO] 在此文件中找到 31 條失敗記錄
+2025-03-19 09:39:43,862 [INFO] 分析日誌文件: sync_20250318.log
+2025-03-19 09:39:43,862 [INFO] 分析日誌文件: sync_20250319.log
+2025-03-19 09:39:43,863 [INFO] 總共找到 31 條失敗的API上傳
+2025-03-19 09:39:43,863 [INFO] other 錯誤: 9 條
+2025-03-19 09:39:43,863 [INFO] authentication 錯誤: 22 條
+2025-03-19 09:39:43,873 [INFO] 找到 0 條新的失敗上傳
+2025-03-19 09:39:43,875 [INFO] 結果已保存到 C:\Users\Zerouniquqe\Documents\projects\label_printer\results\api_retry_results.json
+2025-03-19 09:39:43,884 [INFO] 找到 31 條待處理的失敗上傳
+2025-03-19 09:39:43,884 [INFO] 準備重試上傳記錄ID: 1482
+2025-03-19 09:39:44,285 [INFO] API連接成功
+2025-03-19 09:39:44,285 [ERROR] 重試上傳時出錯: Object of type datetime is not JSON serializable
+2025-03-19 09:39:44,286 [INFO] 記錄 1482 重試失敗: 上傳過程中出錯: Object of type datetime is not JSON serializable
+2025-03-19 09:39:44,287 [INFO] 結果已保存到 C:\Users\Zerouniquqe\Documents\projects\label_printer\results\api_retry_results.json
+2025-03-19 09:39:46,291 [INFO] 準備重試上傳記錄ID: 1483
+2025-03-19 09:39:46,390 [ERROR] 重試上傳時出錯: Object of type datetime is not JSON serializable
+2025-03-19 09:39:46,391 [INFO] 記錄 1483 重試失敗: 上傳過程中出錯: Object of type datetime is not JSON serializable
+2025-03-19 09:39:46,393 [INFO] 結果已保存到 C:\Users\Zerouniquqe\Documents\projects\label_printer\results\api_retry_results.json
+2025-03-19 09:40:00,587 [INFO] ===== 開始API上傳重試流程 =====
+2025-03-19 09:40:00,587 [INFO] 查找近 8 天內的失敗上傳...
+2025-03-19 09:40:00,589 [INFO] 找到 3 個日誌文件進行分析
+2025-03-19 09:40:00,589 [INFO] 分析日誌文件: sync_20250312.log
+2025-03-19 09:40:00,607 [INFO] 在此文件中找到 31 條失敗記錄
+2025-03-19 09:40:00,607 [INFO] 分析日誌文件: sync_20250318.log
+2025-03-19 09:40:00,608 [INFO] 分析日誌文件: sync_20250319.log
+2025-03-19 09:40:00,609 [INFO] 總共找到 31 條失敗的API上傳
+2025-03-19 09:40:00,610 [INFO] other 錯誤: 9 條
+2025-03-19 09:40:00,610 [INFO] authentication 錯誤: 22 條
+2025-03-19 09:40:00,619 [INFO] 找到 0 條新的失敗上傳
+2025-03-19 09:40:00,621 [INFO] 結果已保存到 C:\Users\Zerouniquqe\Documents\projects\label_printer\results\api_retry_results.json
+2025-03-19 09:40:00,631 [INFO] 找到 29 條待處理的失敗上傳
+2025-03-19 09:40:00,632 [INFO] 準備重試上傳記錄ID: 1484
+2025-03-19 09:40:01,035 [INFO] API連接成功
+2025-03-19 09:40:01,037 [ERROR] 重試上傳時出錯: Object of type datetime is not JSON serializable
+2025-03-19 09:40:01,038 [INFO] 記錄 1484 重試失敗: 上傳過程中出錯: Object of type datetime is not JSON serializable
+2025-03-19 09:40:01,040 [INFO] 結果已保存到 C:\Users\Zerouniquqe\Documents\projects\label_printer\results\api_retry_results.json
+2025-03-19 09:40:03,041 [INFO] 準備重試上傳記錄ID: 1485
+2025-03-19 09:40:03,123 [ERROR] 重試上傳時出錯: Object of type datetime is not JSON serializable
+2025-03-19 09:40:03,123 [INFO] 記錄 1485 重試失敗: 上傳過程中出錯: Object of type datetime is not JSON serializable
+2025-03-19 09:40:03,124 [INFO] 結果已保存到 C:\Users\Zerouniquqe\Documents\projects\label_printer\results\api_retry_results.json
+2025-03-19 09:41:35,327 [INFO] ===== 開始API上傳重試流程 =====
+2025-03-19 09:41:35,327 [INFO] 查找近 8 天內的失敗上傳...
+2025-03-19 09:41:35,329 [INFO] 找到 3 個日誌文件進行分析
+2025-03-19 09:41:35,330 [INFO] 分析日誌文件: sync_20250312.log
+2025-03-19 09:41:35,347 [INFO] 在此文件中找到 31 條失敗記錄
+2025-03-19 09:41:35,348 [INFO] 分析日誌文件: sync_20250318.log
+2025-03-19 09:41:35,348 [INFO] 分析日誌文件: sync_20250319.log
+2025-03-19 09:41:35,349 [INFO] 總共找到 31 條失敗的API上傳
+2025-03-19 09:41:35,349 [INFO] other 錯誤: 9 條
+2025-03-19 09:41:35,349 [INFO] authentication 錯誤: 22 條
+2025-03-19 09:41:35,361 [INFO] 找到 0 條新的失敗上傳
+2025-03-19 09:41:35,363 [INFO] 結果已保存到 C:\Users\Zerouniquqe\Documents\projects\label_printer\results\api_retry_results.json
+2025-03-19 09:41:35,374 [INFO] 找到 28 條待處理的失敗上傳
+2025-03-19 09:41:35,374 [INFO] 準備重試上傳記錄ID: 1485
+2025-03-19 09:41:35,797 [INFO] API連接成功
+2025-03-19 09:41:36,027 [INFO] 成功上傳記錄ID: 1485
+2025-03-19 09:41:36,028 [INFO] 記錄 1485 重試成功
+2025-03-19 09:41:36,030 [INFO] 結果已保存到 C:\Users\Zerouniquqe\Documents\projects\label_printer\results\api_retry_results.json
+2025-03-19 09:41:38,032 [INFO] 準備重試上傳記錄ID: 1486
+2025-03-19 09:41:38,347 [INFO] 成功上傳記錄ID: 1486
+2025-03-19 09:41:38,347 [INFO] 記錄 1486 重試成功
+2025-03-19 09:41:38,348 [INFO] 結果已保存到 C:\Users\Zerouniquqe\Documents\projects\label_printer\results\api_retry_results.json
+2025-03-19 09:41:40,350 [INFO] 準備重試上傳記錄ID: 1487
+2025-03-19 09:41:40,770 [INFO] 成功上傳記錄ID: 1487
+2025-03-19 09:41:40,771 [INFO] 記錄 1487 重試成功
+2025-03-19 09:41:40,773 [INFO] 結果已保存到 C:\Users\Zerouniquqe\Documents\projects\label_printer\results\api_retry_results.json
+2025-03-19 09:41:42,777 [INFO] 準備重試上傳記錄ID: 1488
+2025-03-19 09:41:43,297 [INFO] 成功上傳記錄ID: 1488
+2025-03-19 09:41:43,298 [INFO] 記錄 1488 重試成功
+2025-03-19 09:41:43,299 [INFO] 結果已保存到 C:\Users\Zerouniquqe\Documents\projects\label_printer\results\api_retry_results.json
+2025-03-19 09:41:45,303 [INFO] 準備重試上傳記錄ID: 1489
+2025-03-19 09:41:45,755 [INFO] 成功上傳記錄ID: 1489
+2025-03-19 09:41:45,756 [INFO] 記錄 1489 重試成功
+2025-03-19 09:41:45,758 [INFO] 結果已保存到 C:\Users\Zerouniquqe\Documents\projects\label_printer\results\api_retry_results.json
+2025-03-19 09:41:47,761 [INFO] 準備重試上傳記錄ID: 1490
+2025-03-19 09:41:48,185 [INFO] 成功上傳記錄ID: 1490
+2025-03-19 09:41:48,185 [INFO] 記錄 1490 重試成功
+2025-03-19 09:41:48,187 [INFO] 結果已保存到 C:\Users\Zerouniquqe\Documents\projects\label_printer\results\api_retry_results.json
+2025-03-19 09:41:50,188 [INFO] 準備重試上傳記錄ID: 1491
+2025-03-19 09:41:50,763 [INFO] 成功上傳記錄ID: 1491
+2025-03-19 09:41:50,763 [INFO] 記錄 1491 重試成功
+2025-03-19 09:41:50,766 [INFO] 結果已保存到 C:\Users\Zerouniquqe\Documents\projects\label_printer\results\api_retry_results.json
+2025-03-19 09:41:52,766 [INFO] 準備重試上傳記錄ID: 1492
+2025-03-19 09:41:53,097 [INFO] 成功上傳記錄ID: 1492
+2025-03-19 09:41:53,097 [INFO] 記錄 1492 重試成功
+2025-03-19 09:41:53,099 [INFO] 結果已保存到 C:\Users\Zerouniquqe\Documents\projects\label_printer\results\api_retry_results.json
+2025-03-19 09:41:55,100 [INFO] 準備重試上傳記錄ID: 1493
+2025-03-19 09:41:55,622 [INFO] 成功上傳記錄ID: 1493
+2025-03-19 09:41:55,622 [INFO] 記錄 1493 重試成功
+2025-03-19 09:41:55,624 [INFO] 結果已保存到 C:\Users\Zerouniquqe\Documents\projects\label_printer\results\api_retry_results.json
+2025-03-19 09:41:57,625 [INFO] 準備重試上傳記錄ID: 1494
+2025-03-19 09:41:58,052 [INFO] 成功上傳記錄ID: 1494
+2025-03-19 09:41:58,052 [INFO] 記錄 1494 重試成功
+2025-03-19 09:41:58,053 [INFO] 結果已保存到 C:\Users\Zerouniquqe\Documents\projects\label_printer\results\api_retry_results.json
+2025-03-19 09:42:00,054 [INFO] 準備重試上傳記錄ID: 1495
+2025-03-19 09:42:00,513 [INFO] 成功上傳記錄ID: 1495
+2025-03-19 09:42:00,514 [INFO] 記錄 1495 重試成功
+2025-03-19 09:42:00,517 [INFO] 結果已保存到 C:\Users\Zerouniquqe\Documents\projects\label_printer\results\api_retry_results.json
+2025-03-19 09:42:02,521 [INFO] 準備重試上傳記錄ID: 1496
+2025-03-19 09:42:02,854 [INFO] 成功上傳記錄ID: 1496
+2025-03-19 09:42:02,854 [INFO] 記錄 1496 重試成功
+2025-03-19 09:42:02,857 [INFO] 結果已保存到 C:\Users\Zerouniquqe\Documents\projects\label_printer\results\api_retry_results.json
+2025-03-19 09:42:04,860 [INFO] 準備重試上傳記錄ID: 1497
+2025-03-19 09:42:05,320 [INFO] 成功上傳記錄ID: 1497
+2025-03-19 09:42:05,320 [INFO] 記錄 1497 重試成功
+2025-03-19 09:42:05,321 [INFO] 結果已保存到 C:\Users\Zerouniquqe\Documents\projects\label_printer\results\api_retry_results.json
+2025-03-19 09:42:07,324 [INFO] 準備重試上傳記錄ID: 1498
+2025-03-19 09:42:07,823 [INFO] 成功上傳記錄ID: 1498
+2025-03-19 09:42:07,824 [INFO] 記錄 1498 重試成功
+2025-03-19 09:42:07,826 [INFO] 結果已保存到 C:\Users\Zerouniquqe\Documents\projects\label_printer\results\api_retry_results.json
+2025-03-19 09:42:09,827 [INFO] 準備重試上傳記錄ID: 1499
+2025-03-19 09:42:10,343 [INFO] 成功上傳記錄ID: 1499
+2025-03-19 09:42:10,343 [INFO] 記錄 1499 重試成功
+2025-03-19 09:42:10,345 [INFO] 結果已保存到 C:\Users\Zerouniquqe\Documents\projects\label_printer\results\api_retry_results.json
+2025-03-19 09:42:12,346 [INFO] 準備重試上傳記錄ID: 1500
+2025-03-19 09:42:12,826 [INFO] 成功上傳記錄ID: 1500
+2025-03-19 09:42:12,827 [INFO] 記錄 1500 重試成功
+2025-03-19 09:42:12,830 [INFO] 結果已保存到 C:\Users\Zerouniquqe\Documents\projects\label_printer\results\api_retry_results.json
+2025-03-19 09:42:14,833 [INFO] 準備重試上傳記錄ID: 1501
+2025-03-19 09:42:15,290 [INFO] 成功上傳記錄ID: 1501
+2025-03-19 09:42:15,290 [INFO] 記錄 1501 重試成功
+2025-03-19 09:42:15,292 [INFO] 結果已保存到 C:\Users\Zerouniquqe\Documents\projects\label_printer\results\api_retry_results.json
+2025-03-19 09:42:17,292 [INFO] 準備重試上傳記錄ID: 1502
+2025-03-19 09:42:17,915 [INFO] 成功上傳記錄ID: 1502
+2025-03-19 09:42:17,915 [INFO] 記錄 1502 重試成功
+2025-03-19 09:42:17,917 [INFO] 結果已保存到 C:\Users\Zerouniquqe\Documents\projects\label_printer\results\api_retry_results.json
+2025-03-19 09:42:19,920 [INFO] 準備重試上傳記錄ID: 1503
+2025-03-19 09:42:20,409 [INFO] 成功上傳記錄ID: 1503
+2025-03-19 09:42:20,409 [INFO] 記錄 1503 重試成功
+2025-03-19 09:42:20,411 [INFO] 結果已保存到 C:\Users\Zerouniquqe\Documents\projects\label_printer\results\api_retry_results.json
+2025-03-19 09:42:22,412 [INFO] 準備重試上傳記錄ID: 1504
+2025-03-19 09:42:22,872 [INFO] 成功上傳記錄ID: 1504
+2025-03-19 09:42:22,872 [INFO] 記錄 1504 重試成功
+2025-03-19 09:42:22,874 [INFO] 結果已保存到 C:\Users\Zerouniquqe\Documents\projects\label_printer\results\api_retry_results.json
+2025-03-19 09:42:24,875 [INFO] 準備重試上傳記錄ID: 1505
+2025-03-19 09:42:25,373 [INFO] 成功上傳記錄ID: 1505
+2025-03-19 09:42:25,373 [INFO] 記錄 1505 重試成功
+2025-03-19 09:42:25,376 [INFO] 結果已保存到 C:\Users\Zerouniquqe\Documents\projects\label_printer\results\api_retry_results.json
+2025-03-19 09:42:27,380 [INFO] 準備重試上傳記錄ID: 1506
+2025-03-19 09:42:27,804 [INFO] 成功上傳記錄ID: 1506
+2025-03-19 09:42:27,804 [INFO] 記錄 1506 重試成功
+2025-03-19 09:42:27,806 [INFO] 結果已保存到 C:\Users\Zerouniquqe\Documents\projects\label_printer\results\api_retry_results.json
+2025-03-19 09:42:29,807 [INFO] 準備重試上傳記錄ID: 1507
+2025-03-19 09:42:30,278 [INFO] 成功上傳記錄ID: 1507
+2025-03-19 09:42:30,278 [INFO] 記錄 1507 重試成功
+2025-03-19 09:42:30,280 [INFO] 結果已保存到 C:\Users\Zerouniquqe\Documents\projects\label_printer\results\api_retry_results.json
+2025-03-19 09:42:32,281 [INFO] 準備重試上傳記錄ID: 1508
+2025-03-19 09:42:32,818 [INFO] 成功上傳記錄ID: 1508
+2025-03-19 09:42:32,818 [INFO] 記錄 1508 重試成功
+2025-03-19 09:42:32,820 [INFO] 結果已保存到 C:\Users\Zerouniquqe\Documents\projects\label_printer\results\api_retry_results.json
+2025-03-19 09:42:34,822 [INFO] 準備重試上傳記錄ID: 1509
+2025-03-19 09:42:35,376 [INFO] 成功上傳記錄ID: 1509
+2025-03-19 09:42:35,376 [INFO] 記錄 1509 重試成功
+2025-03-19 09:42:35,378 [INFO] 結果已保存到 C:\Users\Zerouniquqe\Documents\projects\label_printer\results\api_retry_results.json
+2025-03-19 09:42:37,380 [INFO] 準備重試上傳記錄ID: 1510
+2025-03-19 09:42:37,916 [INFO] 成功上傳記錄ID: 1510
+2025-03-19 09:42:37,916 [INFO] 記錄 1510 重試成功
+2025-03-19 09:42:37,918 [INFO] 結果已保存到 C:\Users\Zerouniquqe\Documents\projects\label_printer\results\api_retry_results.json
+2025-03-19 09:42:39,921 [INFO] 準備重試上傳記錄ID: 1511
+2025-03-19 09:42:40,412 [INFO] 成功上傳記錄ID: 1511
+2025-03-19 09:42:40,413 [INFO] 記錄 1511 重試成功
+2025-03-19 09:42:40,415 [INFO] 結果已保存到 C:\Users\Zerouniquqe\Documents\projects\label_printer\results\api_retry_results.json
+2025-03-19 09:42:42,419 [INFO] 準備重試上傳記錄ID: 1512
+2025-03-19 09:42:42,753 [INFO] 成功上傳記錄ID: 1512
+2025-03-19 09:42:42,754 [INFO] 記錄 1512 重試成功
+2025-03-19 09:42:42,756 [INFO] 結果已保存到 C:\Users\Zerouniquqe\Documents\projects\label_printer\results\api_retry_results.json
+2025-03-19 09:42:44,757 [INFO] 重試完成: 總計 28, 成功 28, 失敗 0, 跳過 0
+2025-03-19 09:42:44,758 [INFO] ===== API上傳重試流程完成 =====
+2025-03-19 09:46:38,551 [INFO] 準備重試上傳記錄ID: 1482
+2025-03-19 09:46:39,013 [INFO] API連接成功
+2025-03-19 09:46:39,447 [INFO] 成功上傳記錄ID: 1482
+2025-03-19 09:46:39,449 [INFO] 結果已保存到 C:\Users\Zerouniquqe\Documents\projects\label_printer\results\api_retry_results.json
+2025-03-19 09:46:50,385 [INFO] 準備重試上傳記錄ID: 1483
+2025-03-19 09:46:50,813 [INFO] API連接成功
+2025-03-19 09:46:51,067 [INFO] 成功上傳記錄ID: 1483
+2025-03-19 09:46:51,070 [INFO] 結果已保存到 C:\Users\Zerouniquqe\Documents\projects\label_printer\results\api_retry_results.json
+2025-03-19 09:47:03,448 [INFO] 準備重試上傳記錄ID: 1484
+2025-03-19 09:47:03,952 [INFO] API連接成功
+2025-03-19 09:47:04,209 [INFO] 成功上傳記錄ID: 1484
+2025-03-19 09:47:04,213 [INFO] 結果已保存到 C:\Users\Zerouniquqe\Documents\projects\label_printer\results\api_retry_results.json

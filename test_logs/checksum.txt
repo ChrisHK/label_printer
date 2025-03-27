@@ -1,0 +1,40 @@
+計算 checksum：
+const testData = [{
+    serialnumber: "TEST123",
+    computername: "TEST-PC-1",
+    manufacturer: "Dell",
+    model: "Latitude 5420",
+    ram_gb: 16,
+    disks: [{ size_gb: 512 }],
+    battery: {
+        cycle_count: 50,
+        design_capacity: 6000,
+        health: 98
+    }
+}];
+
+// 使用我們的 ChecksumCalculator
+const checksum = ChecksumCalculator.calculate(testData);
+
+發送請求：
+const requestData = {
+    source: "python_sync",
+    timestamp: new Date().toISOString(),
+    batch_id: `SYNC_${Date.now()}`,
+    items: testData,
+    metadata: {
+        total_items: 1,
+        version: "1.0",
+        checksum: checksum
+    }
+};
+
+// POST 請求到 /api/data-process/inventory
+fetch('/api/data-process/inventory', {
+    method: 'POST',
+    headers: {
+        'Content-Type': 'application/json',
+        'Authorization': 'Bearer YOUR_TOKEN'
+    },
+    body: JSON.stringify(requestData)
+});
